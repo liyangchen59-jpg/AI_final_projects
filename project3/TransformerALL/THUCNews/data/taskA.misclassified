@@ -1,0 +1,3208 @@
+sample: 1
+text: 本科未录取还有这些路可以走
+processed_text: 本科未录取还有这些路可以走
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 2
+text: 去新西兰体验舌尖上的饕餮之旅(组图)
+processed_text: 去新西兰体验舌尖上的饕餮之旅(组图)
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 3
+text: 微博“小达人”全球游：美国行程亮点
+processed_text: 微博“小达人”全球游：美国行程亮点
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 4
+text: 调查显示：29.5%的人不满意当年所选高考专业
+processed_text: 调查显示：29.5%的人不满意当年所选高考专业
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 5
+text: 大一女生开学报到带上百斤行李17双鞋雷倒同学
+processed_text: 大一女生开学报到带上百斤行李17双鞋雷倒同学
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 6
+text: 英国一妇女整容成迈克尔-杰克逊(图)
+processed_text: 英国一妇女整容成迈克尔-杰克逊(图)
+true_label: 3
+pred_label: 6
+true_class: 教育
+pred_class: 时政
+--------------------
+sample: 7
+text: 美国管理会计师协会推出2011年新举措
+processed_text: 美国管理会计师协会推出2011年新举措
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 8
+text: 比利时老汉酷爱穿企鹅装 愿葬身南极(组图)
+processed_text: 比利时老汉酷爱穿企鹅装 愿葬身南极(组图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 9
+text: 浙商大法语系介绍：半数毕业生出国深造
+processed_text: 浙商大法语系介绍：半数毕业生出国深造
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 10
+text: 空军与清华签协议 首批联合培养飞行学员开课
+processed_text: 空军与清华签协议 首批联合培养飞行学员开课
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 11
+text: 北京建筑工程学院2009年新增加两专业
+processed_text: 北京建筑工程学院2009年新增加两专业
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 12
+text: 中国民生银行近期活动：启动财富“梦想”
+processed_text: 中国民生银行近期活动：启动财富“梦想”
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 13
+text: 中国江西网微博直播2011江西高招录取
+processed_text: 中国江西网微博直播2011江西高招录取
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 14
+text: 名校MBA报名人数下降 竞争不如往年激烈
+processed_text: 名校MBA报名人数下降 竞争不如往年激烈
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 15
+text: 盘点：新托福口语Task2经典主题
+processed_text: 盘点：新托福口语Task2经典主题
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 16
+text: 调查体验报告：问题“刁钻”也无妨
+processed_text: 调查体验报告：问题“刁钻”也无妨
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 17
+text: 中传大播音主持专业淘汰率99%(图)
+processed_text: 中传大播音主持专业淘汰率99%(图)
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 18
+text: 图文：欧美同学会青年委员会会长陶庆华出席
+processed_text: 图文：欧美同学会青年委员会会长陶庆华出席
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 19
+text: 家长经验：陪孩子做家庭作业也有方法
+processed_text: 家长经验：陪孩子做家庭作业也有方法
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 20
+text: 顾此失彼：去海外读书选课不要贪多
+processed_text: 顾此失彼：去海外读书选课不要贪多
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 21
+text: 河南中招网上填报志愿：12日初三毕业生可确认
+processed_text: 河南中招网上填报志愿：12日初三毕业生可确认
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 22
+text: 李敖之子弃台大选北大 被北大经济学院录取(图)
+processed_text: 李敖之子弃台大选北大 被北大经济学院录取(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 23
+text: 周冬雨不必撇清光环 成功出演山楂树有说服力
+processed_text: 周冬雨不必撇清光环 成功出演山楂树有说服力
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 24
+text: 热点观察：教育资源不足下的复读困境
+processed_text: 热点观察：教育资源不足下的复读困境
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 25
+text: “掐尖”怪象风行 中招争夺生源大战何时休(图)
+processed_text: “掐尖”怪象风行 中招争夺生源大战何时休(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 26
+text: 沪免费师范生就业方案公布 至少任教10年
+processed_text: 沪免费师范生就业方案公布 至少任教10年
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 27
+text: 全方位分析：留港就业门槛逐步降低
+processed_text: 全方位分析：留港就业门槛逐步降低
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 28
+text: 7岁男童3年读完小学上初一 母亲家教有绝招
+processed_text: 7岁男童3年读完小学上初一 母亲家教有绝招
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 29
+text: “被落榜”女生获二本录取：命运就像过山车
+processed_text: “被落榜”女生获二本录取：命运就像过山车
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 30
+text: 高一优秀作文赏析：让责任之花绽放
+processed_text: 高一优秀作文赏析：让责任之花绽放
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 31
+text: 加油站：细节攻克托福口语六大题
+processed_text: 加油站：细节攻克托福口语六大题
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 32
+text: 焦虑家长痛哭崩溃 别把负面情绪传染给孩子
+processed_text: 焦虑家长痛哭崩溃 别把负面情绪传染给孩子
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 33
+text: 调查：过半网友遭遇移民中介夸大宣传不提风险
+processed_text: 调查：过半网友遭遇移民中介夸大宣传不提风险
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 34
+text: 英国爆发第三次学生游行抗议涨学费
+processed_text: 英国爆发第三次学生游行抗议涨学费
+true_label: 3
+pred_label: 6
+true_class: 教育
+pred_class: 时政
+--------------------
+sample: 35
+text: 网友晒中国最牛大学建筑(组图)
+processed_text: 网友晒中国最牛大学建筑(组图)
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 36
+text: 五千加沙儿童共绘手印画 打破吉尼斯纪录
+processed_text: 五千加沙儿童共绘手印画 打破吉尼斯纪录
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 37
+text: 假期出国游学火爆 专家提醒理性选择
+processed_text: 假期出国游学火爆 专家提醒理性选择
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 38
+text: 河南郑州下发通知 开学第一周实施健康晨检
+processed_text: 河南郑州下发通知 开学第一周实施健康晨检
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 39
+text: 20个常用手势让你摇身一变“美国通”
+processed_text: 20个常用手势让你摇身一变“美国通”
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 40
+text: 圣诞节难捱 英10万公务员或收到裁员信
+processed_text: 圣诞节难捱 英10万公务员或收到裁员信
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 41
+text: 美投资移民：勿信虚假宣传 小心梦财两失(图)
+processed_text: 美投资移民：勿信虚假宣传 小心梦财两失(图)
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 42
+text: 组图：备战艺考 女生穿比基尼半裸对视男生
+processed_text: 组图：备战艺考 女生穿比基尼半裸对视男生
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 43
+text: “梦想法案”梦断国会山 奥巴马“非常失望”
+processed_text: “梦想法案”梦断国会山 奥巴马“非常失望”
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 44
+text: 17日中国和新加坡《互免签证协定》生效
+processed_text: 17日中国和新加坡《互免签证协定》生效
+true_label: 3
+pred_label: 8
+true_class: 教育
+pred_class: 游戏
+--------------------
+sample: 45
+text: 09国家公务员报名接近尾声 预计出现“井喷”
+processed_text: 09国家公务员报名接近尾声 预计出现“井喷”
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 46
+text: 美加移民限额恐缩 搭乘申请末班车
+processed_text: 美加移民限额恐缩 搭乘申请末班车
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 47
+text: 四六级引来网络“杯具”签名潮 学生填词宣泄
+processed_text: 四六级引来网络“杯具”签名潮 学生填词宣泄
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 48
+text: 国务院法制办公室09公务员专业笔试及面试公告
+processed_text: 国务院法制办公室09公务员专业笔试及面试公告
+true_label: 3
+pred_label: 6
+true_class: 教育
+pred_class: 时政
+--------------------
+sample: 49
+text: 掌握五种有效记忆方法 让你轻松玩转历史学科(2)
+processed_text: 掌握五种有效记忆方法 让你轻松玩转历史学科(2)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 50
+text: 中级会计复习：财管第六章(收益与分配管理)
+processed_text: 中级会计复习：财管第六章(收益与分配管理)
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 51
+text: 重庆市发布中小学教育五条禁令
+processed_text: 重庆市发布中小学教育五条禁令
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 52
+text: 海归女骑手：改国籍只为代表中国参加奥运(图)
+processed_text: 海归女骑手：改国籍只为代表中国参加奥运(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 53
+text: 美国杜莎夫人蜡像馆为名人换唐装贺新春(图)
+processed_text: 美国杜莎夫人蜡像馆为名人换唐装贺新春(图)
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 54
+text: 三胞胎姐妹金榜题名：贫困其实是一种财富(图)
+processed_text: 三胞胎姐妹金榜题名：贫困其实是一种财富(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 55
+text: “慢工不出细活”走出雅思阅读误区
+processed_text: “慢工不出细活”走出雅思阅读误区
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 56
+text: 假洋高校文凭买卖的地下市场
+processed_text: 假洋高校文凭买卖的地下市场
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 57
+text: 四级重点：最易混的阅读词汇辨析
+processed_text: 四级重点：最易混的阅读词汇辨析
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 58
+text: 职称复习必看：中级会计实务第十九章指导
+processed_text: 职称复习必看：中级会计实务第十九章指导
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 59
+text: 09河南本科一批13日晚开始投档 14日起开录
+processed_text: 09河南本科一批13日晚开始投档 14日起开录
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 60
+text: 2015年河北省唐山市将有万名硕士研究生
+processed_text: 2015年河北省唐山市将有万名硕士研究生
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 61
+text: 冬天里的春天 计算机专业就业新观察
+processed_text: 冬天里的春天 计算机专业就业新观察
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 62
+text: 台湾放开大陆学生赴台就读 门槛还很高
+processed_text: 台湾放开大陆学生赴台就读 门槛还很高
+true_label: 3
+pred_label: 6
+true_class: 教育
+pred_class: 时政
+--------------------
+sample: 63
+text: 赵蕊蕊现身北师大合拍毕业照 将攻读研究生(图)
+processed_text: 赵蕊蕊现身北师大合拍毕业照 将攻读研究生(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 64
+text: 边玩边学：看电影《断背山》学考研英语
+processed_text: 边玩边学：看电影《断背山》学考研英语
+true_label: 3
+pred_label: 8
+true_class: 教育
+pred_class: 游戏
+--------------------
+sample: 65
+text: 托福经验谈：回归原文做整句分析
+processed_text: 托福经验谈：回归原文做整句分析
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 66
+text: 老外看中国：乘车不喜欢系安全带等
+processed_text: 老外看中国：乘车不喜欢系安全带等
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 67
+text: 吉林文科状元申佳颖：多才多艺 偏好文科(图)
+processed_text: 吉林文科状元申佳颖：多才多艺 偏好文科(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 68
+text: 武书连再发大学排行榜 评价使用公开数据
+processed_text: 武书连再发大学排行榜 评价使用公开数据
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 69
+text: 社工试题答案公布：增加逻辑推理题
+processed_text: 社工试题答案公布：增加逻辑推理题
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 70
+text: 拨开迷雾见天日 第一季度托福详解
+processed_text: 拨开迷雾见天日 第一季度托福详解
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 71
+text: 天津4年70万工薪家庭子女挤进留学大军
+processed_text: 天津4年70万工薪家庭子女挤进留学大军
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 72
+text: 快讯：七月赴澳技术移民将按新政申请
+processed_text: 快讯：七月赴澳技术移民将按新政申请
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 73
+text: 提醒：网上志愿填报完毕记得安全退出
+processed_text: 提醒：网上志愿填报完毕记得安全退出
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 74
+text: 好莱坞十大童星富豪排行榜新鲜出炉(组图)
+processed_text: 好莱坞十大童星富豪排行榜新鲜出炉(组图)
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 75
+text: 作文点评：材料作文是主流 半数涉及社会热点
+processed_text: 作文点评：材料作文是主流 半数涉及社会热点
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 76
+text: 美国投资移民申请常见问题快速解答
+processed_text: 美国投资移民申请常见问题快速解答
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 77
+text: 北大网上开放校长视频迎客 近百名老师网络答疑
+processed_text: 北大网上开放校长视频迎客 近百名老师网络答疑
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 78
+text: 名校重金加码博士生奖学金
+processed_text: 名校重金加码博士生奖学金
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 79
+text: 美放宽签证推留学潮 安全问题勿忽视
+processed_text: 美放宽签证推留学潮 安全问题勿忽视
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 80
+text: 海归回国创业最高可获50万元资金支持
+processed_text: 海归回国创业最高可获50万元资金支持
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 81
+text: 深圳特区报：澳际留美挑战赛开赛
+processed_text: 深圳特区报：澳际留美挑战赛开赛
+true_label: 3
+pred_label: 8
+true_class: 教育
+pred_class: 游戏
+--------------------
+sample: 82
+text: 教辅书东拼西凑广告夸大 背后暗藏分成利益
+processed_text: 教辅书东拼西凑广告夸大 背后暗藏分成利益
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 83
+text: 网站开淘宝店卖四六级答案 考生称证实为假
+processed_text: 网站开淘宝店卖四六级答案 考生称证实为假
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 84
+text: 张艺谋做客母校北电 建议学子反复实践(组图)
+processed_text: 张艺谋做客母校北电 建议学子反复实践(组图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 85
+text: 吉林爱心助学基金 20岁女生申请助学金
+processed_text: 吉林爱心助学基金 20岁女生申请助学金
+true_label: 3
+pred_label: 0
+true_class: 教育
+pred_class: 财经
+--------------------
+sample: 86
+text: 中级会计复习：财管第八章(财务分析与考核)
+processed_text: 中级会计复习：财管第八章(财务分析与考核)
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 87
+text: 高技术人员赴英签证需雅思成绩
+processed_text: 高技术人员赴英签证需雅思成绩
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 88
+text: “避热就冷”好就业 小语种创造大前途(图)
+processed_text: “避热就冷”好就业 小语种创造大前途(图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 89
+text: 玩转赌场：几乎毁掉华尔街的数学怪才们
+processed_text: 玩转赌场：几乎毁掉华尔街的数学怪才们
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 90
+text: 广东：填好2B补录志愿 搭上本科末班车
+processed_text: 广东：填好2B补录志愿 搭上本科末班车
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 91
+text: 美媒：“海归派”在中国势力逐渐壮大
+processed_text: 美媒：“海归派”在中国势力逐渐壮大
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 92
+text: 印度4岁“俯卧撑帝”40分钟做1500个(图)
+processed_text: 印度4岁“俯卧撑帝”40分钟做1500个(图)
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 93
+text: 中新建交20周年 新加坡留学再度升温
+processed_text: 中新建交20周年 新加坡留学再度升温
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 94
+text: 演员张一山、杨紫通过北京电影学院三试(组图)
+processed_text: 演员张一山、杨紫通过北京电影学院三试(组图)
+true_label: 3
+pred_label: 9
+true_class: 教育
+pred_class: 娱乐
+--------------------
+sample: 95
+text: 调查显示：八成家长关心孩子成绩远高于性格
+processed_text: 调查显示：八成家长关心孩子成绩远高于性格
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 96
+text: 不能忽视鲁迅作品的语文教育价值
+processed_text: 不能忽视鲁迅作品的语文教育价值
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 97
+text: 范文赏析：GMAT与GRE满分作文揭秘
+processed_text: 范文赏析：GMAT与GRE满分作文揭秘
+true_label: 3
+pred_label: 4
+true_class: 教育
+pred_class: 科技
+--------------------
+sample: 98
+text: 百名陌生同学送祝福 大一女孩度过最难忘生日
+processed_text: 百名陌生同学送祝福 大一女孩度过最难忘生日
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 99
+text: 美中产家庭抚养孩子18岁要花147万元人民币
+processed_text: 美中产家庭抚养孩子18岁要花147万元人民币
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 100
+text: 电子科大西南交大开始09年自主招生
+processed_text: 电子科大西南交大开始09年自主招生
+true_label: 3
+pred_label: 5
+true_class: 教育
+pred_class: 社会
+--------------------
+sample: 101
+text: 雷闯下周正式前往交大读研 校方表示绝不歧视
+processed_text: 雷闯下周正式前往交大读研 校方表示绝不歧视
+true_label: 3
+pred_label: 2
+true_class: 教育
+pred_class: 股票
+--------------------
+sample: 102
+text: 别样家长会：老师唱独角变成三方恳谈(图)
+processed_text: 别样家长会：老师唱独角变成三方恳谈(图)
+true_label: 3
+pred_label: 1
+true_class: 教育
+pred_class: 房产
+--------------------
+sample: 103
+text: 台湾国家司法考试报考人员可在台北提交材料
+processed_text: 台湾国家司法考试报考人员可在台北提交材料
+true_label: 3
+pred_label: 6
+true_class: 教育
+pred_class: 时政
+--------------------
+sample: 104
+text: 金巧巧名誉案终审判决 宋祖德兄弟又输了
+processed_text: 金巧巧名誉案终审判决 宋祖德兄弟又输了
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 105
+text: 乔治男孩提前出狱 清瘦一圈眼袋变小(图)
+processed_text: 乔治男孩提前出狱 清瘦一圈眼袋变小(图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 106
+text: 妮可-里奇网上分享美发心得 推出自家品牌首饰
+processed_text: 妮可-里奇网上分享美发心得 推出自家品牌首饰
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 107
+text: 无休艺人林苑蓄势待发 新转变值得期待
+processed_text: 无休艺人林苑蓄势待发 新转变值得期待
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 108
+text: 《无间道》班底打造《大搜查》配角都是大明星
+processed_text: 《无间道》班底打造《大搜查》配角都是大明星
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 109
+text: 本山传媒员工：没听说赵本山入院 公司正常运转
+processed_text: 本山传媒员工：没听说赵本山入院 公司正常运转
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 110
+text: 弃恶搞选唯美 孙周首玩网络电影《相对论》(图)
+processed_text: 弃恶搞选唯美 孙周首玩网络电影《相对论》(图)
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 111
+text: 东莞万达影城回应媒体对IMAX影厅不实报道声明
+processed_text: 东莞万达影城回应媒体对IMAX影厅不实报道声明
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 112
+text: 方宏进：望事情尽快解决 向合作伙伴道歉
+processed_text: 方宏进：望事情尽快解决 向合作伙伴道歉
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 113
+text: 国家男篮孙悦深夜幽会富家女(组图)
+processed_text: 国家男篮孙悦深夜幽会富家女(组图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 114
+text: 《步步惊心》今晚大结局 权力与爱情故事精彩
+processed_text: 《步步惊心》今晚大结局 权力与爱情故事精彩
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 115
+text: 央三大换血《挑战主持人》停播 4档节目转一套
+processed_text: 央三大换血《挑战主持人》停播 4档节目转一套
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 116
+text: 米雪球场展欢颜 球迷掌声悼念尹志强(图)
+processed_text: 米雪球场展欢颜 球迷掌声悼念尹志强(图)
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 117
+text: 高群书《四大名捕》角色解析 四主角各领风骚
+processed_text: 高群书《四大名捕》角色解析 四主角各领风骚
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 118
+text: 齐魁：环保从自身点滴做起 带动周围人投身环保
+processed_text: 齐魁：环保从自身点滴做起 带动周围人投身环保
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 119
+text: 好莱坞续集凶猛 史无前例推出近30部大片(组图)
+processed_text: 好莱坞续集凶猛 史无前例推出近30部大片(组图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 120
+text: 罗京承认患病否认需要动手术治疗(图)
+processed_text: 罗京承认患病否认需要动手术治疗(图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 121
+text: 郎朗时刻等待祖国召唤首张精选集献礼奥运
+processed_text: 郎朗时刻等待祖国召唤首张精选集献礼奥运
+true_label: 9
+pred_label: 6
+true_class: 娱乐
+pred_class: 时政
+--------------------
+sample: 122
+text: 大S：喜欢血可以喷到身上的运动
+processed_text: 大S：喜欢血可以喷到身上的运动
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 123
+text: 顾长卫新片《魔术时代》正式立项(图)
+processed_text: 顾长卫新片《魔术时代》正式立项(图)
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 124
+text: 海清《追捕》首演动作戏 女版“高仓健”很能跑
+processed_text: 海清《追捕》首演动作戏 女版“高仓健”很能跑
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 125
+text: 冯小刚自传《我把青春献给你》上市
+processed_text: 冯小刚自传《我把青春献给你》上市
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 126
+text: 董卿称正在研读易中天 网友拍砖戏谑其装深沉
+processed_text: 董卿称正在研读易中天 网友拍砖戏谑其装深沉
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 127
+text: 台湾偶像剧一周收视：《痞子英雄》重磅出击
+processed_text: 台湾偶像剧一周收视：《痞子英雄》重磅出击
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 128
+text: 夏雨袁泉携手风雨十年路(图)
+processed_text: 夏雨袁泉携手风雨十年路(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 129
+text: 高价换高清到底值不值 电视台主持人遇挑战(图)
+processed_text: 高价换高清到底值不值 电视台主持人遇挑战(图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 130
+text: 尤勇何政军《沧海》成死对头 二百五对神经病
+processed_text: 尤勇何政军《沧海》成死对头 二百五对神经病
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 131
+text: 为打理弟弟生意 黎姿无憾退出娱乐圈(图)
+processed_text: 为打理弟弟生意 黎姿无憾退出娱乐圈(图)
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 132
+text: 成龙新片内容疑外泄 自称电检员网上曝料
+processed_text: 成龙新片内容疑外泄 自称电检员网上曝料
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 133
+text: 英电影杂志选最伟大角色 皮特夺冠周润发排33
+processed_text: 英电影杂志选最伟大角色 皮特夺冠周润发排33
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 134
+text: 传《神奇》因剧本问题停机 上影称正常拍摄中
+processed_text: 传《神奇》因剧本问题停机 上影称正常拍摄中
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 135
+text: 李金斗上农民春晚捐藏品做吉祥物
+processed_text: 李金斗上农民春晚捐藏品做吉祥物
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 136
+text: 黄长兴透露黄长发将任职面包店市场策划(图)
+processed_text: 黄长兴透露黄长发将任职面包店市场策划(图)
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 137
+text: 刘嘉玲苏州别墅房间达15间 市值1700万(图)
+processed_text: 刘嘉玲苏州别墅房间达15间 市值1700万(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 138
+text: 罗志祥网聊堕入“桃色陷阱”：我是蟑螂打不死
+processed_text: 罗志祥网聊堕入“桃色陷阱”：我是蟑螂打不死
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 139
+text: 林志颖加盟中国天荣F1摩托艇招商银行队
+processed_text: 林志颖加盟中国天荣F1摩托艇招商银行队
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 140
+text: 嫩模陈静仪被曝已是一对子女的妈妈
+processed_text: 嫩模陈静仪被曝已是一对子女的妈妈
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 141
+text: 诗雅期待桃花运 被算出将有异地恋不排除闪婚
+processed_text: 诗雅期待桃花运 被算出将有异地恋不排除闪婚
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 142
+text: 《金大班》闹双胞案 白先勇称范冰冰版不合法
+processed_text: 《金大班》闹双胞案 白先勇称范冰冰版不合法
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 143
+text: 《窃听风云2》18日上映 刘青云亲热戏尊重女方
+processed_text: 《窃听风云2》18日上映 刘青云亲热戏尊重女方
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 144
+text: 杰克逊私人医生默里过失杀人罪名成立
+processed_text: 杰克逊私人医生默里过失杀人罪名成立
+true_label: 9
+pred_label: 6
+true_class: 娱乐
+pred_class: 时政
+--------------------
+sample: 145
+text: 《娱乐现场》关注夺金川音帮 李宇春力挺师妹
+processed_text: 《娱乐现场》关注夺金川音帮 李宇春力挺师妹
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 146
+text: 孙红雷笑言最欣赏林志玲胸部与美臀(图)
+processed_text: 孙红雷笑言最欣赏林志玲胸部与美臀(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 147
+text: 新浪影视点评团22日为《赤壁》下最新打分69.4
+processed_text: 新浪影视点评团22日为《赤壁》下最新打分69.4
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 148
+text: 电影票房今日冲刺100亿 细数百亿背后的痒与痛
+processed_text: 电影票房今日冲刺100亿 细数百亿背后的痒与痛
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 149
+text: 罗京亲证病情不严重明年复工
+processed_text: 罗京亲证病情不严重明年复工
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 150
+text: 锋芝今日返港夺子大战正式打响 张柏芝志在必得
+processed_text: 锋芝今日返港夺子大战正式打响 张柏芝志在必得
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 151
+text: 郭敬明再掀圈钱攻略 多部主编漫画即将推出
+processed_text: 郭敬明再掀圈钱攻略 多部主编漫画即将推出
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 152
+text: 张之亮将携《肩上蝶》亮相法国戛纳电影节
+processed_text: 张之亮将携《肩上蝶》亮相法国戛纳电影节
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 153
+text: 新《还珠》主角未定 湖南卫视发言人斥谣言
+processed_text: 新《还珠》主角未定 湖南卫视发言人斥谣言
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 154
+text: 马丁和鲍德温将主持奥斯卡 老将注入喜剧元素
+processed_text: 马丁和鲍德温将主持奥斯卡 老将注入喜剧元素
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 155
+text: 关心妍男助手女性装扮引热议 维护其并未伤害人
+processed_text: 关心妍男助手女性装扮引热议 维护其并未伤害人
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 156
+text: 周博贤改《年度之歌》变《悲歌》 调侃香港热潮
+processed_text: 周博贤改《年度之歌》变《悲歌》 调侃香港热潮
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 157
+text: TVB花旦邓萃雯40年来情路坎坷(组图)
+processed_text: TVB花旦邓萃雯40年来情路坎坷(组图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 158
+text: 详讯：新人十指紧扣 开始拍摄幸福照片
+processed_text: 详讯：新人十指紧扣 开始拍摄幸福照片
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 159
+text: 综艺：有线台完胜四大电视网络预示革命到来
+processed_text: 综艺：有线台完胜四大电视网络预示革命到来
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 160
+text: 《首映》寻找《东邪西毒》洪七妻子饰演者白丽
+processed_text: 《首映》寻找《东邪西毒》洪七妻子饰演者白丽
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 161
+text: 羊城晚报专访大S：从23岁开始“忘掉年龄”
+processed_text: 羊城晚报专访大S：从23岁开始“忘掉年龄”
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 162
+text: 葛优专访：我真的有“怂样” 顶多还能再演十年
+processed_text: 葛优专访：我真的有“怂样” 顶多还能再演十年
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 163
+text: 《人间》三周年重装升级 全新舞美震撼出炉
+processed_text: 《人间》三周年重装升级 全新舞美震撼出炉
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 164
+text: 盘点亚洲女星闯日必杀技：漂亮是永恒的通行证
+processed_text: 盘点亚洲女星闯日必杀技：漂亮是永恒的通行证
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 165
+text: 龙丹妮升官不出走？水落石出就在10日
+processed_text: 龙丹妮升官不出走？水落石出就在10日
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 166
+text: 传曹颖由于身体原因将暂停所有工作
+processed_text: 传曹颖由于身体原因将暂停所有工作
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 167
+text: 毛毛童年时父母离异 不知道自己生肖
+processed_text: 毛毛童年时父母离异 不知道自己生肖
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 168
+text: 罗百吉名下夜店涉毒遭警方突袭 自称店面已转让
+processed_text: 罗百吉名下夜店涉毒遭警方突袭 自称店面已转让
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 169
+text: 戴军怕掉份儿 穿3万元西装出席时尚活动(图)
+processed_text: 戴军怕掉份儿 穿3万元西装出席时尚活动(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 170
+text: 《型男志》2011寻找MJ新锐型男网络甄选启动
+processed_text: 《型男志》2011寻找MJ新锐型男网络甄选启动
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 171
+text: 酷龙成员具俊晔自曝曾注射过量肉毒素引副作用
+processed_text: 酷龙成员具俊晔自曝曾注射过量肉毒素引副作用
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 172
+text: 《守护Boss》池城当选最想一起听课明星第一位
+processed_text: 《守护Boss》池城当选最想一起听课明星第一位
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 173
+text: “断臂”富大龙向原型学用嘴梳头 梳出观众热泪
+processed_text: “断臂”富大龙向原型学用嘴梳头 梳出观众热泪
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 174
+text: 实录：白灵畅谈闯荡好莱坞 美丽只是自己的一面
+processed_text: 实录：白灵畅谈闯荡好莱坞 美丽只是自己的一面
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 175
+text: 《锣鼓巷》首日收视飘红 王刚PK刘威技高一筹
+processed_text: 《锣鼓巷》首日收视飘红 王刚PK刘威技高一筹
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 176
+text: 已故漫画家丁聪专访：画漫画有个屁用！
+processed_text: 已故漫画家丁聪专访：画漫画有个屁用！
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 177
+text: 《欢喜冤家》议买车or买房 柳岩谈前男友落泪
+processed_text: 《欢喜冤家》议买车or买房 柳岩谈前男友落泪
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 178
+text: 黄海冰再发声明斥《岁月骄阳》剧组恶意炒作
+processed_text: 黄海冰再发声明斥《岁月骄阳》剧组恶意炒作
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 179
+text: 刘烨房产官司开庭 买房四年没房产证
+processed_text: 刘烨房产官司开庭 买房四年没房产证
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 180
+text: 今年捞金近亿？周华健澄清：我没挣那么多钱
+processed_text: 今年捞金近亿？周华健澄清：我没挣那么多钱
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 181
+text: 演员罢工箭在弦上 《变形金刚2》拍摄可能推迟
+processed_text: 演员罢工箭在弦上 《变形金刚2》拍摄可能推迟
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 182
+text: 台媒曝言承旭关颖秘恋两年从未分手
+processed_text: 台媒曝言承旭关颖秘恋两年从未分手
+true_label: 9
+pred_label: 6
+true_class: 娱乐
+pred_class: 时政
+--------------------
+sample: 183
+text: 主办方表示新版《红楼梦》万事俱备 搭好景就拍
+processed_text: 主办方表示新版《红楼梦》万事俱备 搭好景就拍
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 184
+text: 《通缉令》导演制作《玛姬》 全程记录人变僵尸
+processed_text: 《通缉令》导演制作《玛姬》 全程记录人变僵尸
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 185
+text: 董洁复工携子登场 期待重返大银幕
+processed_text: 董洁复工携子登场 期待重返大银幕
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 186
+text: 众星云集新浪网络盛典畅谈新年计划
+processed_text: 众星云集新浪网络盛典畅谈新年计划
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 187
+text: 小仓优子前经纪公司涉嫌逃税遭起诉(图)
+processed_text: 小仓优子前经纪公司涉嫌逃税遭起诉(图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 188
+text: 兽兽视频门频遭媒体揣度 日前获新进展
+processed_text: 兽兽视频门频遭媒体揣度 日前获新进展
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 189
+text: 大S连发吓人丑照 网友称其“彻底疯了”
+processed_text: 大S连发吓人丑照 网友称其“彻底疯了”
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 190
+text: 2009福布斯中国名人榜大抄底 六见郭敬明(图)(2)
+processed_text: 2009福布斯中国名人榜大抄底 六见郭敬明(图)(2)
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 191
+text: 郑少秋不慎跌进深洞两次送医 郑欣宜被吓哭
+processed_text: 郑少秋不慎跌进深洞两次送医 郑欣宜被吓哭
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 192
+text: 粉丝期待《佳期如梦》续集 望冯绍峰改变命运
+processed_text: 粉丝期待《佳期如梦》续集 望冯绍峰改变命运
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 193
+text: 众主创谈新《水浒》：翻拍是因为旧版过时了
+processed_text: 众主创谈新《水浒》：翻拍是因为旧版过时了
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 194
+text: 倪震偷情自毁前程祸及无数(图)
+processed_text: 倪震偷情自毁前程祸及无数(图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 195
+text: 六问《借枪》：命题作文下的别出心裁
+processed_text: 六问《借枪》：命题作文下的别出心裁
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 196
+text: 中国娇子新锐榜落幕 《我们生活的年代》夺双奖
+processed_text: 中国娇子新锐榜落幕 《我们生活的年代》夺双奖
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 197
+text: 王宝强张国强《津夜嘉年华》扭转顺溜大结局
+processed_text: 王宝强张国强《津夜嘉年华》扭转顺溜大结局
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 198
+text: 央视曝光网站骗局 张铁林范伟王刚齐陷代言门
+processed_text: 央视曝光网站骗局 张铁林范伟王刚齐陷代言门
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 199
+text: 《包青天之碧血丹心》片尾曲定阿桑未公开遗作
+processed_text: 《包青天之碧血丹心》片尾曲定阿桑未公开遗作
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 200
+text: 周冬雨加入艺考大军行列 淘汰率高达99%
+processed_text: 周冬雨加入艺考大军行列 淘汰率高达99%
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 201
+text: 《小家大事》收视再攀升 王学兵化身江湖骗子
+processed_text: 《小家大事》收视再攀升 王学兵化身江湖骗子
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 202
+text: 《企业家赵本山》京城遇冷 本山不受读者待见
+processed_text: 《企业家赵本山》京城遇冷 本山不受读者待见
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 203
+text: 甄子丹受访郑丹瑞谈女儿经 称维系家庭有窍门
+processed_text: 甄子丹受访郑丹瑞谈女儿经 称维系家庭有窍门
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 204
+text: 时尚达人廖婉洮秀风情 解读性感小常识(组图)
+processed_text: 时尚达人廖婉洮秀风情 解读性感小常识(组图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 205
+text: 男篮国手幽会兽兽举止亲密 篮协谨慎回应恐重罚
+processed_text: 男篮国手幽会兽兽举止亲密 篮协谨慎回应恐重罚
+true_label: 9
+pred_label: 7
+true_class: 娱乐
+pred_class: 体育
+--------------------
+sample: 206
+text: 《初恋》北京热拍 金载沅自曝首吻戏献牛萌萌
+processed_text: 《初恋》北京热拍 金载沅自曝首吻戏献牛萌萌
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 207
+text: 高晓松刑期过半 狱中读书度日
+processed_text: 高晓松刑期过半 狱中读书度日
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 208
+text: 大S出嫁“超级愿意” 网络直播微博比记者更猛
+processed_text: 大S出嫁“超级愿意” 网络直播微博比记者更猛
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 209
+text: 编剧之生活与生存：被拖欠稿费 得不到关注
+processed_text: 编剧之生活与生存：被拖欠稿费 得不到关注
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 210
+text: 解析今年电视的潮流和趋势：红流泰流和网流
+processed_text: 解析今年电视的潮流和趋势：红流泰流和网流
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 211
+text: 董洁：红不红无所谓 跟在别人屁股后面也挺好
+processed_text: 董洁：红不红无所谓 跟在别人屁股后面也挺好
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 212
+text: 郑渊洁称作家领工资可耻
+processed_text: 郑渊洁称作家领工资可耻
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 213
+text: 《多情谷》亮相金鸡百花电影节民族题材受关注
+processed_text: 《多情谷》亮相金鸡百花电影节民族题材受关注
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 214
+text: 央视电影频道将于元旦贺岁档播出《建国大业》
+processed_text: 央视电影频道将于元旦贺岁档播出《建国大业》
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 215
+text: 《家好月圆》结局版本多 演员期望破大长今纪录
+processed_text: 《家好月圆》结局版本多 演员期望破大长今纪录
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 216
+text: 白岩松文质彬彬是假象 否认与老婆的浪漫故事
+processed_text: 白岩松文质彬彬是假象 否认与老婆的浪漫故事
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 217
+text: 《彩虹甜心》剧情造型遭质疑 PK《我的女孩》
+processed_text: 《彩虹甜心》剧情造型遭质疑 PK《我的女孩》
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 218
+text: 曹格侧田拳拳到肉 好友变脸匪夷所思
+processed_text: 曹格侧田拳拳到肉 好友变脸匪夷所思
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 219
+text: 30届香港金像奖公布提名 徐克为华仔李冰冰抱憾
+processed_text: 30届香港金像奖公布提名 徐克为华仔李冰冰抱憾
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 220
+text: 喻可欣拍卖华仔所赠定情信物
+processed_text: 喻可欣拍卖华仔所赠定情信物
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 221
+text: 官恩娜下周去日本有畏惧 叹人类面对天灾很脆弱
+processed_text: 官恩娜下周去日本有畏惧 叹人类面对天灾很脆弱
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 222
+text: 丁蟹效应魔咒缠身 郑少秋新剧开播股市跌？
+processed_text: 丁蟹效应魔咒缠身 郑少秋新剧开播股市跌？
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 223
+text: 钱慧仪与12岁儿子探讨性 老师要求写艳照门感想
+processed_text: 钱慧仪与12岁儿子探讨性 老师要求写艳照门感想
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 224
+text: 西蒙-考威尔为《未知元素》设五百万美元大奖
+processed_text: 西蒙-考威尔为《未知元素》设五百万美元大奖
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 225
+text: 安逗黑仔盗版事件最新进展 刘德华发打假声明
+processed_text: 安逗黑仔盗版事件最新进展 刘德华发打假声明
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 226
+text: 影人特写：洪金宝，我做大哥好多年(组图)
+processed_text: 影人特写：洪金宝，我做大哥好多年(组图)
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 227
+text: 《夺命深渊》预告曝光 卡梅隆展现海底幽闭恐惧
+processed_text: 《夺命深渊》预告曝光 卡梅隆展现海底幽闭恐惧
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 228
+text: 《对手》北京热播 讲述两代人解不完的爱恨情仇
+processed_text: 《对手》北京热播 讲述两代人解不完的爱恨情仇
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 229
+text: 香港无线被指解雇工程部30名员工 高层否认裁员
+processed_text: 香港无线被指解雇工程部30名员工 高层否认裁员
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 230
+text: 夏雨坚持环保理念 荣获最佳公益形象男明星(图)
+processed_text: 夏雨坚持环保理念 荣获最佳公益形象男明星(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 231
+text: 《滇西1944》首播受争议 观众有赞有批
+processed_text: 《滇西1944》首播受争议 观众有赞有批
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 232
+text: 《星际迷航》系列老“史波克”演员宣布退休
+processed_text: 《星际迷航》系列老“史波克”演员宣布退休
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 233
+text: 时尚大典北京落幕 张艺谋等共赴时尚夜宴(图)
+processed_text: 时尚大典北京落幕 张艺谋等共赴时尚夜宴(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 234
+text: 《人间》解密《非诚勿扰》 配对嘉宾婚期已定
+processed_text: 《人间》解密《非诚勿扰》 配对嘉宾婚期已定
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 235
+text: 拉美民谣女皇Mercedes Sosa去世 终年74岁(图)
+processed_text: 拉美民谣女皇Mercedes Sosa去世 终年74岁(图)
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 236
+text: 《下海》变身创业指南 张嘉译范明刘蓓各出奇招
+processed_text: 《下海》变身创业指南 张嘉译范明刘蓓各出奇招
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 237
+text: 《蜗居》片花首次曝光 张弛有度远超《双面胶》
+processed_text: 《蜗居》片花首次曝光 张弛有度远超《双面胶》
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 238
+text: 世界杯影响影院上座率 现在看电影80%是女人
+processed_text: 世界杯影响影院上座率 现在看电影80%是女人
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 239
+text: 赌王四姨太获慈善公益金奖 提案关注交通问题
+processed_text: 赌王四姨太获慈善公益金奖 提案关注交通问题
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 240
+text: 关心妍周丽淇一吻泯恩仇(图)
+processed_text: 关心妍周丽淇一吻泯恩仇(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 241
+text: 央视曝光网站骗局 张铁林范伟王刚陷“代言门”
+processed_text: 央视曝光网站骗局 张铁林范伟王刚陷“代言门”
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 242
+text: 后选秀时代玩的还是创新 广告费没有“危机”
+processed_text: 后选秀时代玩的还是创新 广告费没有“危机”
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 243
+text: 新《红楼梦》总监制张强任《孤星泪》总制片人
+processed_text: 新《红楼梦》总监制张强任《孤星泪》总制片人
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 244
+text: 温兆伦江城大办“婚礼”谈情：会努力找到幸福
+processed_text: 温兆伦江城大办“婚礼”谈情：会努力找到幸福
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 245
+text: 《迷失》男星出演FOX监狱题材新剧《铁窗风云》
+processed_text: 《迷失》男星出演FOX监狱题材新剧《铁窗风云》
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 246
+text: 《风声传奇》亮相南京 杀人游戏重新洗牌(图)
+processed_text: 《风声传奇》亮相南京 杀人游戏重新洗牌(图)
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 247
+text: 山东卫视《爱拼才会赢》第二季5月1日全国首播
+processed_text: 山东卫视《爱拼才会赢》第二季5月1日全国首播
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 248
+text: 赵本山营销有道 小沈阳出场费从500飙到10万
+processed_text: 赵本山营销有道 小沈阳出场费从500飙到10万
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 249
+text: 首尔亚洲音乐节SS501打头阵 飞轮海帅气耍棍
+processed_text: 首尔亚洲音乐节SS501打头阵 飞轮海帅气耍棍
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 250
+text: 盛大影视业务调整：龙丹妮卸任华影盛视总裁
+processed_text: 盛大影视业务调整：龙丹妮卸任华影盛视总裁
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 251
+text: 任重曾泳醍走进赵宝刚新剧《婚姻保卫战》
+processed_text: 任重曾泳醍走进赵宝刚新剧《婚姻保卫战》
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 252
+text: 泳儿称检查乳房怕尴尬 只会找女医生(图)
+processed_text: 泳儿称检查乳房怕尴尬 只会找女医生(图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 253
+text: 傅琰东：不想进娱乐圈 6月起闭关备战龙年春晚
+processed_text: 傅琰东：不想进娱乐圈 6月起闭关备战龙年春晚
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 254
+text: 纪念911北美无心娱乐 周末电影票房创年度新低
+processed_text: 纪念911北美无心娱乐 周末电影票房创年度新低
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 255
+text: 《鸿门宴》服装求完美 李仁港亲上阵严格把关
+processed_text: 《鸿门宴》服装求完美 李仁港亲上阵严格把关
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 256
+text: 选秀启示录：花儿朵朵选手烧炭自杀成名绝望
+processed_text: 选秀启示录：花儿朵朵选手烧炭自杀成名绝望
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 257
+text: hold住姐新造型亮相 30多家媒体看首秀
+processed_text: hold住姐新造型亮相 30多家媒体看首秀
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 258
+text: 阿娇正式复出 称不会辜负阿Sa(图)
+processed_text: 阿娇正式复出 称不会辜负阿Sa(图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 259
+text: 张国立被告 代言营养品被指夸大功能
+processed_text: 张国立被告 代言营养品被指夸大功能
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 260
+text: 韩三平蓉城密会曹世如 欲打造西南最大影业
+processed_text: 韩三平蓉城密会曹世如 欲打造西南最大影业
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 261
+text: 华纳兄弟筹备拍摄《大侦探福尔摩斯》第三部
+processed_text: 华纳兄弟筹备拍摄《大侦探福尔摩斯》第三部
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 262
+text: 《星空》入围釜山影展 陈国富鼓励林书宇逐梦
+processed_text: 《星空》入围釜山影展 陈国富鼓励林书宇逐梦
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 263
+text: 周润发已看透生死 死后将捐出99%财产(图)
+processed_text: 周润发已看透生死 死后将捐出99%财产(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 264
+text: 奥斯卡化妆奖：《星际》领军《阿凡达》出局
+processed_text: 奥斯卡化妆奖：《星际》领军《阿凡达》出局
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 265
+text: 新版《水浒传》片段遭网络热传 公司发独家声明
+processed_text: 新版《水浒传》片段遭网络热传 公司发独家声明
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 266
+text: 北京希望马拉松防癌义跑 郝云牛奶咖啡助阵
+processed_text: 北京希望马拉松防癌义跑 郝云牛奶咖啡助阵
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 267
+text: 《金婚》编剧要求署名及14万元赔偿被驳回
+processed_text: 《金婚》编剧要求署名及14万元赔偿被驳回
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 268
+text: 霍格沃茨毕业生就业调查 波特三人组前途光明
+processed_text: 霍格沃茨毕业生就业调查 波特三人组前途光明
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 269
+text: 孙红雷：我是一块特别贪婪的海绵(图)
+processed_text: 孙红雷：我是一块特别贪婪的海绵(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 270
+text: 新《红楼梦》公布选角条件：要有一颗纯真的心
+processed_text: 新《红楼梦》公布选角条件：要有一颗纯真的心
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 271
+text: 酒井法子官方后援会宣布解散
+processed_text: 酒井法子官方后援会宣布解散
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 272
+text: 李小冉微博爆料：事前我接到恐吓电话
+processed_text: 李小冉微博爆料：事前我接到恐吓电话
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 273
+text: 蒋雯丽《金婚》后再造传奇演绎另类后妈
+processed_text: 蒋雯丽《金婚》后再造传奇演绎另类后妈
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 274
+text: 宋丹丹推崇放养式教育：快乐比应试教育幸福
+processed_text: 宋丹丹推崇放养式教育：快乐比应试教育幸福
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 275
+text: 胡因梦贵州成立工作坊 预计明年初开工
+processed_text: 胡因梦贵州成立工作坊 预计明年初开工
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 276
+text: X JAPAN计划与1500名歌迷一起迎接新年(图)
+processed_text: X JAPAN计划与1500名歌迷一起迎接新年(图)
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 277
+text: 傅颖与前东家纠纷 合约官司押后下月再审
+processed_text: 傅颖与前东家纠纷 合约官司押后下月再审
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 278
+text: 三家免费电视台加入竞争 无线号召积极面对挑战
+processed_text: 三家免费电视台加入竞争 无线号召积极面对挑战
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 279
+text: 《决战南京》韩雪陈宝国师生恋 遭棒打嫁他人
+processed_text: 《决战南京》韩雪陈宝国师生恋 遭棒打嫁他人
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 280
+text: 多年不见陈佩斯 原来是去种石榴
+processed_text: 多年不见陈佩斯 原来是去种石榴
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 281
+text: 叶童否认《摘星之旅》与刘松仁不和
+processed_text: 叶童否认《摘星之旅》与刘松仁不和
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 282
+text: KTV企业欲联手维权 发起者是收费公司董事(图)
+processed_text: KTV企业欲联手维权 发起者是收费公司董事(图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 283
+text: 薛之谦强制封喉录音室 上腾全面暂停所有演出
+processed_text: 薛之谦强制封喉录音室 上腾全面暂停所有演出
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 284
+text: 新闻晨报：小新，能不说再见吗？
+processed_text: 新闻晨报：小新，能不说再见吗？
+true_label: 9
+pred_label: 3
+true_class: 娱乐
+pred_class: 教育
+--------------------
+sample: 285
+text: Super Junior来沪“吆喝”韩国美食(图)
+processed_text: Super Junior来沪“吆喝”韩国美食(图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 286
+text: 斯琴高美跃入大众视线 身份更加扑朔迷离
+processed_text: 斯琴高美跃入大众视线 身份更加扑朔迷离
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 287
+text: 黎明年付200万签靓模？开设模特公司并非空谈
+processed_text: 黎明年付200万签靓模？开设模特公司并非空谈
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 288
+text: 光盘侵权案开庭 小沈阳被指过河拆桥
+processed_text: 光盘侵权案开庭 小沈阳被指过河拆桥
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 289
+text: 方宏进起诉华龙 法院已受理
+processed_text: 方宏进起诉华龙 法院已受理
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 290
+text: 《大秦帝国》热播 黄金搭档秦孝公商鞅成偶像
+processed_text: 《大秦帝国》热播 黄金搭档秦孝公商鞅成偶像
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 291
+text: 韩国票房综述：《神机箭》中秋蝉联 本土片上位
+processed_text: 韩国票房综述：《神机箭》中秋蝉联 本土片上位
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 292
+text: 裴勇俊Rain等众韩星受股灾影响损失惨重(附图)
+processed_text: 裴勇俊Rain等众韩星受股灾影响损失惨重(附图)
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 293
+text: 上海电影节即将落幕 “星光”黯淡只因囊中羞涩
+processed_text: 上海电影节即将落幕 “星光”黯淡只因囊中羞涩
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 294
+text: 《春天》剧组祝福selina 俞灏明早日康复
+processed_text: 《春天》剧组祝福selina 俞灏明早日康复
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 295
+text: 侯耀文案将开庭 郭德纲撤证词不出庭
+processed_text: 侯耀文案将开庭 郭德纲撤证词不出庭
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 296
+text: 白先勇胞弟涉运毒 不知安眠药含毒品不被起诉
+processed_text: 白先勇胞弟涉运毒 不知安眠药含毒品不被起诉
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 297
+text: 摩登天空音乐节阵容更新 超级市场果味VC加盟
+processed_text: 摩登天空音乐节阵容更新 超级市场果味VC加盟
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 298
+text: 杨澜回顾20年分享感悟：让自己具备幸福力
+processed_text: 杨澜回顾20年分享感悟：让自己具备幸福力
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 299
+text: 徐峥高速过路费差一元 险被扣收费站
+processed_text: 徐峥高速过路费差一元 险被扣收费站
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 300
+text: 苏有朋房客起诉 名下商铺出租后难办营业执照
+processed_text: 苏有朋房客起诉 名下商铺出租后难办营业执照
+true_label: 9
+pred_label: 1
+true_class: 娱乐
+pred_class: 房产
+--------------------
+sample: 301
+text: Selina积极复健Hebe请吃大餐 Ella鼓励不逃避
+processed_text: Selina积极复健Hebe请吃大餐 Ella鼓励不逃避
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 302
+text: 《笑傲江湖》网友反对有效 周杰伦难演东方不败
+processed_text: 《笑傲江湖》网友反对有效 周杰伦难演东方不败
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 303
+text: 洪晃：章子怡起诉媒体好傻
+processed_text: 洪晃：章子怡起诉媒体好傻
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 304
+text: 阮经天自曝16岁时曾沉迷网络
+processed_text: 阮经天自曝16岁时曾沉迷网络
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 305
+text: 白酒企业伪造小沈阳“代言”将吃官司
+processed_text: 白酒企业伪造小沈阳“代言”将吃官司
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 306
+text: 斋藤纪念音乐节开幕 《蓝胡子公爵的城堡》首演
+processed_text: 斋藤纪念音乐节开幕 《蓝胡子公爵的城堡》首演
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 307
+text: After School朴嘉熙新碟性感热辣造型曝光(图)
+processed_text: After School朴嘉熙新碟性感热辣造型曝光(图)
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 308
+text: 微博联播：邓萃雯开通微博 向网友问好(图)
+processed_text: 微博联播：邓萃雯开通微博 向网友问好(图)
+true_label: 9
+pred_label: 4
+true_class: 娱乐
+pred_class: 科技
+--------------------
+sample: 309
+text: 新一代F4即将诞生 内地新版《流星花园》将开拍
+processed_text: 新一代F4即将诞生 内地新版《流星花园》将开拍
+true_label: 9
+pred_label: 8
+true_class: 娱乐
+pred_class: 游戏
+--------------------
+sample: 310
+text: 董洁时尚价值受品牌亲睐 品味攀升获称时尚森女
+processed_text: 董洁时尚价值受品牌亲睐 品味攀升获称时尚森女
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 311
+text: 地震后日本演艺圈名人纷纷为赈灾献力(图)
+processed_text: 地震后日本演艺圈名人纷纷为赈灾献力(图)
+true_label: 9
+pred_label: 5
+true_class: 娱乐
+pred_class: 社会
+--------------------
+sample: 312
+text: 欧阳震华人生堪比港剧：约会完才知老婆是豪门
+processed_text: 欧阳震华人生堪比港剧：约会完才知老婆是豪门
+true_label: 9
+pred_label: 2
+true_class: 娱乐
+pred_class: 股票
+--------------------
+sample: 313
+text: 凯奇陷入财政困难 德普主动出手相助(图)
+processed_text: 凯奇陷入财政困难 德普主动出手相助(图)
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 314
+text: 迷笛打造理想主义成功案例 张帆：为摇滚乐蓄水
+processed_text: 迷笛打造理想主义成功案例 张帆：为摇滚乐蓄水
+true_label: 9
+pred_label: 0
+true_class: 娱乐
+pred_class: 财经
+--------------------
+sample: 315
+text: 中投少壮派何宝空降博时接替肖风出任总裁
+processed_text: 中投少壮派何宝空降博时接替肖风出任总裁
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 316
+text: 多国部队袭击利比亚 黄金强势反弹再望新高
+processed_text: 多国部队袭击利比亚 黄金强势反弹再望新高
+true_label: 0
+pred_label: 6
+true_class: 财经
+pred_class: 时政
+--------------------
+sample: 317
+text: 伦强沪弱：期铝套利如箭在弦
+processed_text: 伦强沪弱：期铝套利如箭在弦
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 318
+text: REITs将比炒股还火爆
+processed_text: REITs将比炒股还火爆
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 319
+text: 华夏大盘金鹰中小盘 净值已近牛市高点
+processed_text: 华夏大盘金鹰中小盘 净值已近牛市高点
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 320
+text: FOF：海外投资风浪中的新帆板
+processed_text: FOF：海外投资风浪中的新帆板
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 321
+text: 收藏传奇：用一顿饭求得数名大师画作
+processed_text: 收藏传奇：用一顿饭求得数名大师画作
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 322
+text: 肖风时代的博时：13年赚管理费80亿元
+processed_text: 肖风时代的博时：13年赚管理费80亿元
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 323
+text: 个体户如何年捞百万
+processed_text: 个体户如何年捞百万
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 324
+text: 2010债市总体向下 把握四大阶段中的局部热点
+processed_text: 2010债市总体向下 把握四大阶段中的局部热点
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 325
+text: 存款利率相差760倍 港人再掀人民币理财热潮
+processed_text: 存款利率相差760倍 港人再掀人民币理财热潮
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 326
+text: 新规实施 东吴双动力净值跌12.59%创纪录
+processed_text: 新规实施 东吴双动力净值跌12.59%创纪录
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 327
+text: 证监会官员解读新规：建立公平的利益博弈机制
+processed_text: 证监会官员解读新规：建立公平的利益博弈机制
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 328
+text: 平深恋开花 整合方案仍未果
+processed_text: 平深恋开花 整合方案仍未果
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 329
+text: ETF潮涌背后：样本股重合事件套利或成常态
+processed_text: ETF潮涌背后：样本股重合事件套利或成常态
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 330
+text: 莫媛惠：海外投资并非都赔钱
+processed_text: 莫媛惠：海外投资并非都赔钱
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 331
+text: 重庆将建3000万平公租房 租金6折租满5年可买
+processed_text: 重庆将建3000万平公租房 租金6折租满5年可买
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 332
+text: 指数使用费究竟该谁买单待解 支付上限亟待规范
+processed_text: 指数使用费究竟该谁买单待解 支付上限亟待规范
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 333
+text: 牵一发而动全身 小麦减产打乱整体格局
+processed_text: 牵一发而动全身 小麦减产打乱整体格局
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 334
+text: 别让公积金睡大觉 精打细算为自己购房服好务
+processed_text: 别让公积金睡大觉 精打细算为自己购房服好务
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 335
+text: 欧佩克预计全球原油需求将长期保持低迷
+processed_text: 欧佩克预计全球原油需求将长期保持低迷
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 336
+text: 机构：危机不会大面积蔓延 油价难上160美元
+processed_text: 机构：危机不会大面积蔓延 油价难上160美元
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 337
+text: 午评：金属在重压下回落 橡胶延续整理
+processed_text: 午评：金属在重压下回落 橡胶延续整理
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 338
+text: 上投摩根：积极布局大盘蓝筹股
+processed_text: 上投摩根：积极布局大盘蓝筹股
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 339
+text: 探解国际粮价飙升背后迷局 70%责任归咎于投机
+processed_text: 探解国际粮价飙升背后迷局 70%责任归咎于投机
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 340
+text: 统计局：11月下旬产地农产品价格小涨
+processed_text: 统计局：11月下旬产地农产品价格小涨
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 341
+text: 周立波：十几年后满街中年人都有六七套房
+processed_text: 周立波：十几年后满街中年人都有六七套房
+true_label: 0
+pred_label: 9
+true_class: 财经
+pred_class: 娱乐
+--------------------
+sample: 342
+text: 三大险企争购中国重工 共动用18个子账户
+processed_text: 三大险企争购中国重工 共动用18个子账户
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 343
+text: 桂敏杰：防范风险 维护市场稳健运行
+processed_text: 桂敏杰：防范风险 维护市场稳健运行
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 344
+text: 仓位居高不下 净值出现大幅波动
+processed_text: 仓位居高不下 净值出现大幅波动
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 345
+text: 争夺第六张准生证 中石化抄底燃料乙醇
+processed_text: 争夺第六张准生证 中石化抄底燃料乙醇
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 346
+text: 金融危机下城市居民生活调查：上海人最抠门
+processed_text: 金融危机下城市居民生活调查：上海人最抠门
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 347
+text: 快讯：午后沪铜发力 主力突破前期高点
+processed_text: 快讯：午后沪铜发力 主力突破前期高点
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 348
+text: 规避房贷新政怪招百出 揭秘六种规避房贷新招
+processed_text: 规避房贷新政怪招百出 揭秘六种规避房贷新招
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 349
+text: 2008年12月26日 交易提示
+processed_text: 2008年12月26日 交易提示
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 350
+text: 投资总监一年熊市后成个体户
+processed_text: 投资总监一年熊市后成个体户
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 351
+text: 奥巴马上台：牛了美元熊了期铝
+processed_text: 奥巴马上台：牛了美元熊了期铝
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 352
+text: 大盘2380点轮回 85只偏股基金收益超10%
+processed_text: 大盘2380点轮回 85只偏股基金收益超10%
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 353
+text: 天治创新先锋净值半年涨33%
+processed_text: 天治创新先锋净值半年涨33%
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 354
+text: 中国版401K计划已破题 推动养老金和企业年金入市
+processed_text: 中国版401K计划已破题 推动养老金和企业年金入市
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 355
+text: 地下炒金骗局揭秘：没有底牌的对赌
+processed_text: 地下炒金骗局揭秘：没有底牌的对赌
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 356
+text: 美民主党大权在手 能源政策恐将改变
+processed_text: 美民主党大权在手 能源政策恐将改变
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 357
+text: 金属多单止盈离场 警惕诱多后急速下跌
+processed_text: 金属多单止盈离场 警惕诱多后急速下跌
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 358
+text: 期市地下融资配资悄然升温 最高配资比达1：10
+processed_text: 期市地下融资配资悄然升温 最高配资比达1：10
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 359
+text: 从抢票到甩票：票据乱象背后信贷推手
+processed_text: 从抢票到甩票：票据乱象背后信贷推手
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 360
+text: 跨界经营曲线救国 团体险养年金勉为其难
+processed_text: 跨界经营曲线救国 团体险养年金勉为其难
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 361
+text: 三大因素博弈 钢铁业艰难筑底
+processed_text: 三大因素博弈 钢铁业艰难筑底
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 362
+text: 合成胶跌势不止重压天胶市场
+processed_text: 合成胶跌势不止重压天胶市场
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 363
+text: 合丰周期特色鲜明的周冠军
+processed_text: 合丰周期特色鲜明的周冠军
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 364
+text: 11月6日起北京公积金最高可贷80万元
+processed_text: 11月6日起北京公积金最高可贷80万元
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 365
+text: 东京谷物交易所和工业品交易所合并计划流产
+processed_text: 东京谷物交易所和工业品交易所合并计划流产
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 366
+text: 地产股估值修复行情需看政策脸色
+processed_text: 地产股估值修复行情需看政策脸色
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 367
+text: Lgmi：两大因素支撑钢材后市行情
+processed_text: Lgmi：两大因素支撑钢材后市行情
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 368
+text: 国内铝产能较重 沪铝涨幅受产能过大限制
+processed_text: 国内铝产能较重 沪铝涨幅受产能过大限制
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 369
+text: 中金所强化账户监管发布指引
+processed_text: 中金所强化账户监管发布指引
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 370
+text: 大摩：黄金完全有动力重返1420美元上方
+processed_text: 大摩：黄金完全有动力重返1420美元上方
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 371
+text: 后发优势
+processed_text: 后发优势
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 372
+text: 华泰柏瑞称将追究造谣者责任
+processed_text: 华泰柏瑞称将追究造谣者责任
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 373
+text: 南非发现跟橙子一样大的超大钻石(图)
+processed_text: 南非发现跟橙子一样大的超大钻石(图)
+true_label: 0
+pred_label: 6
+true_class: 财经
+pred_class: 时政
+--------------------
+sample: 374
+text: 诈骗新招：伪造银行单据卖金元宝 一周作案8起
+processed_text: 诈骗新招：伪造银行单据卖金元宝 一周作案8起
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 375
+text: 10只公私重仓股逆市上涨 占共同持股量5.46%
+processed_text: 10只公私重仓股逆市上涨 占共同持股量5.46%
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 376
+text: 上投摩根09年投资策略：一条主线与三个主题
+processed_text: 上投摩根09年投资策略：一条主线与三个主题
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 377
+text: 前三季北京产险承保获利7.5亿元
+processed_text: 前三季北京产险承保获利7.5亿元
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 378
+text: 四大行网银收费相差5倍 如何挑选更省钱
+processed_text: 四大行网银收费相差5倍 如何挑选更省钱
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 379
+text: 低配日本股市 QDII成功防震
+processed_text: 低配日本股市 QDII成功防震
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 380
+text: 伊拉克石油部长：欧佩克或将进一步减产
+processed_text: 伊拉克石油部长：欧佩克或将进一步减产
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 381
+text: 高盛建议买入原油和金属
+processed_text: 高盛建议买入原油和金属
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 382
+text: 德银一网打尽8股 QFII创业板打新三足鼎立
+processed_text: 德银一网打尽8股 QFII创业板打新三足鼎立
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 383
+text: 科萨瓦皮塔：交易所竞争将利于利益保障
+processed_text: 科萨瓦皮塔：交易所竞争将利于利益保障
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 384
+text: BDI指数进一步下跌 但四季度走势将保持强劲
+processed_text: BDI指数进一步下跌 但四季度走势将保持强劲
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 385
+text: 宝贝出生一年来的小清单
+processed_text: 宝贝出生一年来的小清单
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 386
+text: 英造假艺术家：伪造名画骗过各大博物馆(图)
+processed_text: 英造假艺术家：伪造名画骗过各大博物馆(图)
+true_label: 0
+pred_label: 3
+true_class: 财经
+pred_class: 教育
+--------------------
+sample: 387
+text: 科技竞赛带来美好时光 国泰纳指100收益可期
+processed_text: 科技竞赛带来美好时光 国泰纳指100收益可期
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 388
+text: 从领涨到领跌 铜业股坐过山车
+processed_text: 从领涨到领跌 铜业股坐过山车
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 389
+text: 刘兴强建议加快发展场内基础衍生品市场
+processed_text: 刘兴强建议加快发展场内基础衍生品市场
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 390
+text: 揭开收藏会所的神秘面纱
+processed_text: 揭开收藏会所的神秘面纱
+true_label: 0
+pred_label: 1
+true_class: 财经
+pred_class: 房产
+--------------------
+sample: 391
+text: 银行农历年前放贷收紧 民间借贷趁火打劫
+processed_text: 银行农历年前放贷收紧 民间借贷趁火打劫
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 392
+text: 退保手册：两年以上时间最佳 三招化解损失
+processed_text: 退保手册：两年以上时间最佳 三招化解损失
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 393
+text: 建信沪深300(LOF)新增兴业证券为代销机构
+processed_text: 建信沪深300(LOF)新增兴业证券为代销机构
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 394
+text: 业内人士曝假文物骗钱套路：我们都觉得可笑
+processed_text: 业内人士曝假文物骗钱套路：我们都觉得可笑
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 395
+text: 期指重挫 专家称去年暴跌走势难再现
+processed_text: 期指重挫 专家称去年暴跌走势难再现
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 396
+text: 金鹰红利后来居上 分出第一桶金
+processed_text: 金鹰红利后来居上 分出第一桶金
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 397
+text: 一人最好只办2张信用卡 不宜用信用卡透支理财
+processed_text: 一人最好只办2张信用卡 不宜用信用卡透支理财
+true_label: 0
+pred_label: 4
+true_class: 财经
+pred_class: 科技
+--------------------
+sample: 398
+text: 富国汇利配售比例为56.39%
+processed_text: 富国汇利配售比例为56.39%
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 399
+text: 半年机构炒股成绩单：社保夺魁QFII垫底
+processed_text: 半年机构炒股成绩单：社保夺魁QFII垫底
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 400
+text: 银行争抢无限信用卡蛋糕 万元年费不可减免
+processed_text: 银行争抢无限信用卡蛋糕 万元年费不可减免
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------
+sample: 401
+text: 远月升水高企 PVC多头尴尬移仓
+processed_text: 远月升水高企 PVC多头尴尬移仓
+true_label: 0
+pred_label: 2
+true_class: 财经
+pred_class: 股票
+--------------------

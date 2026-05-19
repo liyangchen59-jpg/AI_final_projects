@@ -1,0 +1,2999 @@
+
+Word pair: old and new
+The standard similarity is 1.58 and the one calculated by embeddings is 6.570387035608292
+
+Word pair: smart and intelligent
+The standard similarity is 9.2 and the one calculated by embeddings is 5.376001261174679
+
+Word pair: hard and difficult
+The standard similarity is 8.77 and the one calculated by embeddings is 6.275325417518616
+
+Word pair: happy and cheerful
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hard and easy
+The standard similarity is 0.95 and the one calculated by embeddings is 6.106530055403709
+
+Word pair: fast and rapid
+The standard similarity is 8.75 and the one calculated by embeddings is 5.943007990717888
+
+Word pair: happy and glad
+The standard similarity is 9.17 and the one calculated by embeddings is 5.903207138180733
+
+Word pair: short and long
+The standard similarity is 1.23 and the one calculated by embeddings is 7.669393718242645
+
+Word pair: stupid and dumb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: weird and strange
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wide and narrow
+The standard similarity is 1.03 and the one calculated by embeddings is 6.403832882642746
+
+Word pair: bad and awful
+The standard similarity is 8.42 and the one calculated by embeddings is 6.106359511613846
+
+Word pair: easy and difficult
+The standard similarity is 0.58 and the one calculated by embeddings is 7.058899402618408
+
+Word pair: bad and terrible
+The standard similarity is 7.78 and the one calculated by embeddings is 6.112532392144203
+
+Word pair: hard and simple
+The standard similarity is 1.38 and the one calculated by embeddings is 5.25443509221077
+
+Word pair: smart and dumb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: insane and crazy
+The standard similarity is 9.57 and the one calculated by embeddings is 5.260536260902882
+
+Word pair: happy and mad
+The standard similarity is 0.95 and the one calculated by embeddings is 6.375347822904587
+
+Word pair: large and huge
+The standard similarity is 9.47 and the one calculated by embeddings is 7.769436240196228
+
+Word pair: hard and tough
+The standard similarity is 8.05 and the one calculated by embeddings is 6.079941093921661
+
+Word pair: new and fresh
+The standard similarity is 6.83 and the one calculated by embeddings is 5.518700107932091
+
+Word pair: sharp and dull
+The standard similarity is 0.6 and the one calculated by embeddings is 4.954667394049466
+
+Word pair: quick and rapid
+The standard similarity is 9.7 and the one calculated by embeddings is 5.023186006583273
+
+Word pair: dumb and foolish
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wonderful and terrific
+The standard similarity is 8.63 and the one calculated by embeddings is 5.195183381438255
+
+Word pair: strange and odd
+The standard similarity is 9.02 and the one calculated by embeddings is 5.173183996230364
+
+Word pair: happy and angry
+The standard similarity is 1.28 and the one calculated by embeddings is 6.796897053718567
+
+Word pair: narrow and broad
+The standard similarity is 1.18 and the one calculated by embeddings is 6.392964422702789
+
+Word pair: simple and easy
+The standard similarity is 9.4 and the one calculated by embeddings is 6.078997775912285
+
+Word pair: old and fresh
+The standard similarity is 0.87 and the one calculated by embeddings is 6.657825857400894
+
+Word pair: apparent and obvious
+The standard similarity is 8.47 and the one calculated by embeddings is 5.993755087256432
+
+Word pair: inexpensive and cheap
+The standard similarity is 8.72 and the one calculated by embeddings is 5.469544939696789
+
+Word pair: nice and generous
+The standard similarity is 5.0 and the one calculated by embeddings is 5.98895937204361
+
+Word pair: weird and normal
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: weird and odd
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bad and immoral
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: sad and funny
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wonderful and great
+The standard similarity is 8.05 and the one calculated by embeddings is 5.327147953212261
+
+Word pair: guilty and ashamed
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: beautiful and wonderful
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: confident and sure
+The standard similarity is 8.27 and the one calculated by embeddings is 7.5791531801223755
+
+Word pair: dumb and dense
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: large and big
+The standard similarity is 9.55 and the one calculated by embeddings is 7.2729261219501495
+
+Word pair: nice and cruel
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: impatient and anxious
+The standard similarity is 6.03 and the one calculated by embeddings is 6.567990779876709
+
+Word pair: big and broad
+The standard similarity is 6.73 and the one calculated by embeddings is 5.5296366289258
+
+Word pair: strong and proud
+The standard similarity is 3.17 and the one calculated by embeddings is 5.063058082014322
+
+Word pair: unnecessary and necessary
+The standard similarity is 0.63 and the one calculated by embeddings is 7.142186760902405
+
+Word pair: restless and young
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: dumb and intelligent
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bad and great
+The standard similarity is 0.35 and the one calculated by embeddings is 6.450442671775818
+
+Word pair: difficult and simple
+The standard similarity is 0.87 and the one calculated by embeddings is 5.454443469643593
+
+Word pair: necessary and important
+The standard similarity is 7.37 and the one calculated by embeddings is 6.476659774780273
+
+Word pair: bad and terrific
+The standard similarity is 0.65 and the one calculated by embeddings is 5.573484189808369
+
+Word pair: mad and glad
+The standard similarity is 1.45 and the one calculated by embeddings is 5.295716729015112
+
+Word pair: honest and guilty
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: easy and tough
+The standard similarity is 0.52 and the one calculated by embeddings is 5.845569744706154
+
+Word pair: easy and flexible
+The standard similarity is 4.1 and the one calculated by embeddings is 6.221508979797363
+
+Word pair: certain and sure
+The standard similarity is 8.42 and the one calculated by embeddings is 5.051768003031611
+
+Word pair: essential and necessary
+The standard similarity is 8.97 and the one calculated by embeddings is 6.202944591641426
+
+Word pair: different and normal
+The standard similarity is 1.08 and the one calculated by embeddings is 6.157300174236298
+
+Word pair: sly and clever
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: crucial and important
+The standard similarity is 8.82 and the one calculated by embeddings is 7.228240668773651
+
+Word pair: harsh and cruel
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: childish and foolish
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: scarce and rare
+The standard similarity is 9.17 and the one calculated by embeddings is 4.793197736144066
+
+Word pair: friendly and generous
+The standard similarity is 5.9 and the one calculated by embeddings is 6.526156812906265
+
+Word pair: fragile and frigid
+The standard similarity is 2.38 and the one calculated by embeddings is 5.357349291443825
+
+Word pair: long and narrow
+The standard similarity is 3.57 and the one calculated by embeddings is 4.758922886103392
+
+Word pair: big and heavy
+The standard similarity is 6.18 and the one calculated by embeddings is 6.1310528218746185
+
+Word pair: rough and frigid
+The standard similarity is 2.47 and the one calculated by embeddings is 5.387154147028923
+
+Word pair: bizarre and strange
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: illegal and immoral
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bad and guilty
+The standard similarity is 4.2 and the one calculated by embeddings is 4.7971368953585625
+
+Word pair: modern and ancient
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: new and ancient
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: dull and funny
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: happy and young
+The standard similarity is 2.0 and the one calculated by embeddings is 5.6358858942985535
+
+Word pair: easy and big
+The standard similarity is 1.12 and the one calculated by embeddings is 6.219909265637398
+
+Word pair: great and awful
+The standard similarity is 1.17 and the one calculated by embeddings is 5.322534367442131
+
+Word pair: tiny and huge
+The standard similarity is 0.6 and the one calculated by embeddings is 5.583896450698376
+
+Word pair: polite and proper
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: modest and ashamed
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: exotic and rare
+The standard similarity is 8.05 and the one calculated by embeddings is 5.405603162944317
+
+Word pair: dumb and clever
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: delightful and wonderful
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: noticeable and obvious
+The standard similarity is 8.48 and the one calculated by embeddings is 6.306031495332718
+
+Word pair: afraid and anxious
+The standard similarity is 5.07 and the one calculated by embeddings is 6.229527294635773
+
+Word pair: formal and proper
+The standard similarity is 8.02 and the one calculated by embeddings is 5.244546644389629
+
+Word pair: dreary and dull
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: delightful and cheerful
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: unhappy and mad
+The standard similarity is 5.95 and the one calculated by embeddings is 5.536679811775684
+
+Word pair: sad and terrible
+The standard similarity is 5.4 and the one calculated by embeddings is 3.7338104844093323
+
+Word pair: sick and crazy
+The standard similarity is 3.57 and the one calculated by embeddings is 5.724038332700729
+
+Word pair: violent and angry
+The standard similarity is 6.98 and the one calculated by embeddings is 5.614573284983635
+
+Word pair: laden and heavy
+The standard similarity is 5.9 and the one calculated by embeddings is 5.563168041408062
+
+Word pair: dirty and cheap
+The standard similarity is 1.6 and the one calculated by embeddings is 5.667818561196327
+
+Word pair: elastic and flexible
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hard and dense
+The standard similarity is 5.9 and the one calculated by embeddings is 5.013116261688992
+
+Word pair: recent and new
+The standard similarity is 7.05 and the one calculated by embeddings is 6.479261964559555
+
+Word pair: bold and proud
+The standard similarity is 3.97 and the one calculated by embeddings is 5.353079438209534
+
+Word pair: sly and strange
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: strange and sly
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: dumb and rare
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: sly and tough
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: terrific and mad
+The standard similarity is 0.4 and the one calculated by embeddings is 4.961344834882766
+
+Word pair: modest and flexible
+The standard similarity is 0.98 and the one calculated by embeddings is 6.15988627076149
+
+Word pair: fresh and wide
+The standard similarity is 0.4 and the one calculated by embeddings is 5.932030230760574
+
+Word pair: huge and dumb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: large and flexible
+The standard similarity is 0.48 and the one calculated by embeddings is 6.441292464733124
+
+Word pair: dirty and narrow
+The standard similarity is 0.3 and the one calculated by embeddings is 5.601786561310291
+
+Word pair: wife and husband
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: book and text
+The standard similarity is 6.35 and the one calculated by embeddings is 5.579319633543491
+
+Word pair: groom and bride
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: night and day
+The standard similarity is 1.88 and the one calculated by embeddings is 5.7687366753816605
+
+Word pair: south and north
+The standard similarity is 2.2 and the one calculated by embeddings is 7.090215384960175
+
+Word pair: plane and airport
+The standard similarity is 3.65 and the one calculated by embeddings is 5.021309331059456
+
+Word pair: uncle and aunt
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: horse and mare
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bottom and top
+The standard similarity is 0.7 and the one calculated by embeddings is 5.9825703501701355
+
+Word pair: friend and buddy
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: student and pupil
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: world and globe
+The standard similarity is 6.67 and the one calculated by embeddings is 5.931376367807388
+
+Word pair: leg and arm
+The standard similarity is 2.88 and the one calculated by embeddings is 5.181847773492336
+
+Word pair: plane and jet
+The standard similarity is 8.1 and the one calculated by embeddings is 5.5556633323431015
+
+Word pair: woman and man
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: horse and colt
+The standard similarity is 7.07 and the one calculated by embeddings is 4.847644977271557
+
+Word pair: actress and actor
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: teacher and instructor
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: movie and film
+The standard similarity is 8.87 and the one calculated by embeddings is 4.569970332086086
+
+Word pair: bird and hawk
+The standard similarity is 7.85 and the one calculated by embeddings is 5.269626770168543
+
+Word pair: word and dictionary
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: money and salary
+The standard similarity is 7.88 and the one calculated by embeddings is 5.990896448493004
+
+Word pair: dog and cat
+The standard similarity is 1.75 and the one calculated by embeddings is 4.757816232740879
+
+Word pair: area and region
+The standard similarity is 9.47 and the one calculated by embeddings is 6.62371963262558
+
+Word pair: navy and army
+The standard similarity is 6.43 and the one calculated by embeddings is 5.164670683443546
+
+Word pair: book and literature
+The standard similarity is 7.53 and the one calculated by embeddings is 3.4313146770000458
+
+Word pair: clothes and closet
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: sunset and sunrise
+The standard similarity is 2.47 and the one calculated by embeddings is 5.447340719401836
+
+Word pair: child and adult
+The standard similarity is 2.98 and the one calculated by embeddings is 5.9812938421964645
+
+Word pair: cow and cattle
+The standard similarity is 9.52 and the one calculated by embeddings is 5.65457358956337
+
+Word pair: book and story
+The standard similarity is 5.63 and the one calculated by embeddings is 6.218694821000099
+
+Word pair: winter and summer
+The standard similarity is 2.38 and the one calculated by embeddings is 7.352759540081024
+
+Word pair: taxi and cab
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: tree and maple
+The standard similarity is 5.53 and the one calculated by embeddings is 5.354663506150246
+
+Word pair: bed and bedroom
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: roof and ceiling
+The standard similarity is 7.58 and the one calculated by embeddings is 4.954551490955055
+
+Word pair: disease and infection
+The standard similarity is 7.15 and the one calculated by embeddings is 5.296713672578335
+
+Word pair: arm and shoulder
+The standard similarity is 4.85 and the one calculated by embeddings is 5.918067693710327
+
+Word pair: sheep and lamb
+The standard similarity is 8.42 and the one calculated by embeddings is 4.131960794329643
+
+Word pair: lady and gentleman
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: boat and anchor
+The standard similarity is 2.25 and the one calculated by embeddings is 4.602460078895092
+
+Word pair: priest and monk
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: toe and finger
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: river and stream
+The standard similarity is 7.3 and the one calculated by embeddings is 5.304369609802961
+
+Word pair: anger and fury
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: date and calendar
+The standard similarity is 4.42 and the one calculated by embeddings is 4.867124520242214
+
+Word pair: sea and ocean
+The standard similarity is 8.27 and the one calculated by embeddings is 6.150079891085625
+
+Word pair: second and minute
+The standard similarity is 4.62 and the one calculated by embeddings is 5.421031825244427
+
+Word pair: hand and thumb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wood and log
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: mud and dirt
+The standard similarity is 7.32 and the one calculated by embeddings is 5.1707578636705875
+
+Word pair: hallway and corridor
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: way and manner
+The standard similarity is 7.62 and the one calculated by embeddings is 5.312624424695969
+
+Word pair: mouse and cat
+The standard similarity is 1.12 and the one calculated by embeddings is 5.487958937883377
+
+Word pair: cop and sheriff
+The standard similarity is 9.05 and the one calculated by embeddings is 5.354207120835781
+
+Word pair: death and burial
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: music and melody
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: beer and alcohol
+The standard similarity is 7.5 and the one calculated by embeddings is 5.485145300626755
+
+Word pair: mouth and lip
+The standard similarity is 7.1 and the one calculated by embeddings is 4.929391136392951
+
+Word pair: storm and hurricane
+The standard similarity is 6.38 and the one calculated by embeddings is 5.601120144128799
+
+Word pair: tax and income
+The standard similarity is 2.38 and the one calculated by embeddings is 6.558862030506134
+
+Word pair: flower and violet
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: paper and cardboard
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: floor and ceiling
+The standard similarity is 1.73 and the one calculated by embeddings is 5.684968456625938
+
+Word pair: beach and seashore
+The standard similarity is 8.33 and the one calculated by embeddings is 5.489332191646099
+
+Word pair: rod and curtain
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hound and fox
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: street and alley
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: boat and deck
+The standard similarity is 4.28 and the one calculated by embeddings is 3.7570200860500336
+
+Word pair: car and horn
+The standard similarity is 2.57 and the one calculated by embeddings is 5.568413846194744
+
+Word pair: friend and guest
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: employer and employee
+The standard similarity is 3.65 and the one calculated by embeddings is 4.527992606163025
+
+Word pair: hand and wrist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ball and cannon
+The standard similarity is 2.58 and the one calculated by embeddings is 5.355812162160873
+
+Word pair: alcohol and brandy
+The standard similarity is 6.98 and the one calculated by embeddings is 4.708209428936243
+
+Word pair: victory and triumph
+The standard similarity is 8.98 and the one calculated by embeddings is 4.785596262663603
+
+Word pair: telephone and booth
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: door and doorway
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: motel and inn
+The standard similarity is 8.17 and the one calculated by embeddings is 5.784226730465889
+
+Word pair: clothes and cloth
+The standard similarity is 5.47 and the one calculated by embeddings is 4.845484737306833
+
+Word pair: steak and meat
+The standard similarity is 7.47 and the one calculated by embeddings is 5.211365055292845
+
+Word pair: nail and thumb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: band and orchestra
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: book and bible
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: business and industry
+The standard similarity is 7.02 and the one calculated by embeddings is 6.599622666835785
+
+Word pair: winter and season
+The standard similarity is 6.27 and the one calculated by embeddings is 6.628200709819794
+
+Word pair: decade and century
+The standard similarity is 3.48 and the one calculated by embeddings is 5.71598008275032
+
+Word pair: alcohol and gin
+The standard similarity is 8.65 and the one calculated by embeddings is 4.936004346236587
+
+Word pair: hat and coat
+The standard similarity is 2.67 and the one calculated by embeddings is 4.284816458821297
+
+Word pair: window and door
+The standard similarity is 3.33 and the one calculated by embeddings is 5.776811465620995
+
+Word pair: arm and wrist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: house and apartment
+The standard similarity is 5.8 and the one calculated by embeddings is 4.456050917506218
+
+Word pair: glass and crystal
+The standard similarity is 6.27 and the one calculated by embeddings is 5.858705788850784
+
+Word pair: wine and brandy
+The standard similarity is 5.15 and the one calculated by embeddings is 5.63926562666893
+
+Word pair: creator and maker
+The standard similarity is 9.62 and the one calculated by embeddings is 5.259474739432335
+
+Word pair: dinner and breakfast
+The standard similarity is 3.33 and the one calculated by embeddings is 4.3334197252988815
+
+Word pair: arm and muscle
+The standard similarity is 3.72 and the one calculated by embeddings is 4.294096529483795
+
+Word pair: bubble and suds
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bread and flour
+The standard similarity is 3.33 and the one calculated by embeddings is 6.967329233884811
+
+Word pair: death and tragedy
+The standard similarity is 5.8 and the one calculated by embeddings is 5.782630071043968
+
+Word pair: absence and presence
+The standard similarity is 0.4 and the one calculated by embeddings is 5.832730904221535
+
+Word pair: gun and cannon
+The standard similarity is 5.68 and the one calculated by embeddings is 4.92382429074496
+
+Word pair: grass and blade
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ball and basket
+The standard similarity is 1.67 and the one calculated by embeddings is 5.458693876862526
+
+Word pair: hose and garden
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: boy and kid
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: church and choir
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: clothes and drawer
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: tower and bell
+The standard similarity is 1.9 and the one calculated by embeddings is 5.26127340272069
+
+Word pair: father and parent
+The standard similarity is 7.07 and the one calculated by embeddings is 5.824332013726234
+
+Word pair: school and grade
+The standard similarity is 4.42 and the one calculated by embeddings is 5.0707907089963555
+
+Word pair: parent and adult
+The standard similarity is 5.37 and the one calculated by embeddings is 4.8944304417818785
+
+Word pair: bar and jail
+The standard similarity is 1.9 and the one calculated by embeddings is 5.423873960971832
+
+Word pair: car and highway
+The standard similarity is 3.4 and the one calculated by embeddings is 4.851936046034098
+
+Word pair: dictionary and definition
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: door and cellar
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: army and legion
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: metal and aluminum
+The standard similarity is 7.25 and the one calculated by embeddings is 7.092704176902771
+
+Word pair: chair and bench
+The standard similarity is 6.67 and the one calculated by embeddings is 4.771946035325527
+
+Word pair: cloud and fog
+The standard similarity is 6.0 and the one calculated by embeddings is 5.996463820338249
+
+Word pair: boy and son
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: water and ice
+The standard similarity is 6.47 and the one calculated by embeddings is 3.646833300590515
+
+Word pair: bed and blanket
+The standard similarity is 3.02 and the one calculated by embeddings is 5.546356625854969
+
+Word pair: attorney and lawyer
+The standard similarity is 9.35 and the one calculated by embeddings is 5.537801384925842
+
+Word pair: area and zone
+The standard similarity is 8.33 and the one calculated by embeddings is 5.431988835334778
+
+Word pair: business and company
+The standard similarity is 9.02 and the one calculated by embeddings is 6.110553443431854
+
+Word pair: clothes and fabric
+The standard similarity is 5.87 and the one calculated by embeddings is 5.917154252529144
+
+Word pair: sweater and jacket
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: money and capital
+The standard similarity is 6.67 and the one calculated by embeddings is 6.2498414516448975
+
+Word pair: hand and foot
+The standard similarity is 4.17 and the one calculated by embeddings is 4.972400679253042
+
+Word pair: alcohol and cocktail
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: yard and inch
+The standard similarity is 3.78 and the one calculated by embeddings is 5.073523689061403
+
+Word pair: molecule and atom
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: lens and camera
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: meal and dinner
+The standard similarity is 7.15 and the one calculated by embeddings is 4.624524265527725
+
+Word pair: eye and tear
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: god and devil
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: loop and belt
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: rat and mouse
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: motor and engine
+The standard similarity is 8.65 and the one calculated by embeddings is 6.072482392191887
+
+Word pair: car and cab
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cat and lion
+The standard similarity is 6.75 and the one calculated by embeddings is 4.934871774166822
+
+Word pair: size and magnitude
+The standard similarity is 6.33 and the one calculated by embeddings is 7.117748111486435
+
+Word pair: reality and fantasy
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: door and gate
+The standard similarity is 5.25 and the one calculated by embeddings is 5.8265142142772675
+
+Word pair: cat and pet
+The standard similarity is 5.95 and the one calculated by embeddings is 5.113952150568366
+
+Word pair: tin and aluminum
+The standard similarity is 6.42 and the one calculated by embeddings is 6.402788311243057
+
+Word pair: bone and jaw
+The standard similarity is 4.17 and the one calculated by embeddings is 4.651360288262367
+
+Word pair: cereal and wheat
+The standard similarity is 3.75 and the one calculated by embeddings is 6.630599498748779
+
+Word pair: house and key
+The standard similarity is 1.9 and the one calculated by embeddings is 6.1205630749464035
+
+Word pair: blood and flesh
+The standard similarity is 4.28 and the one calculated by embeddings is 4.670010767877102
+
+Word pair: door and corridor
+The standard similarity is 3.73 and the one calculated by embeddings is 5.474817901849747
+
+Word pair: god and spirit
+The standard similarity is 7.3 and the one calculated by embeddings is 5.069249430671334
+
+Word pair: capability and competence
+The standard similarity is 7.62 and the one calculated by embeddings is 5.530648827552795
+
+Word pair: abundance and plenty
+The standard similarity is 8.97 and the one calculated by embeddings is 5.731824263930321
+
+Word pair: sofa and chair
+The standard similarity is 6.67 and the one calculated by embeddings is 5.78986681997776
+
+Word pair: wall and brick
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: horn and drum
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: organ and liver
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: strength and might
+The standard similarity is 7.07 and the one calculated by embeddings is 5.247989110648632
+
+Word pair: phrase and word
+The standard similarity is 5.48 and the one calculated by embeddings is 5.2408804930746555
+
+Word pair: band and parade
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: stomach and waist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cloud and storm
+The standard similarity is 5.6 and the one calculated by embeddings is 6.275858283042908
+
+Word pair: joy and pride
+The standard similarity is 5.0 and the one calculated by embeddings is 5.655209943652153
+
+Word pair: noise and rattle
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: rain and mist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: beer and beverage
+The standard similarity is 5.42 and the one calculated by embeddings is 4.737192131578922
+
+Word pair: man and uncle
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: apple and juice
+The standard similarity is 2.88 and the one calculated by embeddings is 6.591584533452988
+
+Word pair: intelligence and logic
+The standard similarity is 6.5 and the one calculated by embeddings is 4.713813308626413
+
+Word pair: communication and language
+The standard similarity is 7.47 and the one calculated by embeddings is 5.693040043115616
+
+Word pair: mink and fur
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: mob and crowd
+The standard similarity is 7.85 and the one calculated by embeddings is 5.171187166124582
+
+Word pair: shore and coast
+The standard similarity is 8.83 and the one calculated by embeddings is 5.678005591034889
+
+Word pair: wire and cord
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bird and turkey
+The standard similarity is 6.58 and the one calculated by embeddings is 6.468360126018524
+
+Word pair: bed and crib
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: competence and ability
+The standard similarity is 7.5 and the one calculated by embeddings is 5.826902538537979
+
+Word pair: cloud and haze
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: supper and meal
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bar and cage
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: water and salt
+The standard similarity is 1.3 and the one calculated by embeddings is 5.570811331272125
+
+Word pair: sense and intuition
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: situation and condition
+The standard similarity is 6.58 and the one calculated by embeddings is 6.18591733276844
+
+Word pair: crime and theft
+The standard similarity is 7.53 and the one calculated by embeddings is 6.454710960388184
+
+Word pair: style and fashion
+The standard similarity is 8.5 and the one calculated by embeddings is 5.498388968408108
+
+Word pair: boundary and border
+The standard similarity is 9.08 and the one calculated by embeddings is 4.656289555132389
+
+Word pair: arm and body
+The standard similarity is 4.05 and the one calculated by embeddings is 5.571153052151203
+
+Word pair: boat and car
+The standard similarity is 2.37 and the one calculated by embeddings is 4.772075898945332
+
+Word pair: sandwich and lunch
+The standard similarity is 6.3 and the one calculated by embeddings is 4.349403977394104
+
+Word pair: bride and princess
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: heroine and hero
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: car and gauge
+The standard similarity is 1.13 and the one calculated by embeddings is 4.850850459188223
+
+Word pair: insect and bee
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: crib and cradle
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: animal and person
+The standard similarity is 3.05 and the one calculated by embeddings is 4.757627509534359
+
+Word pair: marijuana and herb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bed and hospital
+The standard similarity is 0.92 and the one calculated by embeddings is 5.916757956147194
+
+Word pair: cheek and tongue
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: disc and computer
+The standard similarity is 3.2 and the one calculated by embeddings is 5.878469869494438
+
+Word pair: curve and angle
+The standard similarity is 3.33 and the one calculated by embeddings is 4.397606998682022
+
+Word pair: grass and moss
+The standard similarity is 5.0 and the one calculated by embeddings is 5.258383918553591
+
+Word pair: school and law
+The standard similarity is 1.13 and the one calculated by embeddings is 4.867957206442952
+
+Word pair: foot and head
+The standard similarity is 2.3 and the one calculated by embeddings is 4.787512179464102
+
+Word pair: mother and guardian
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: orthodontist and dentist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: alcohol and whiskey
+The standard similarity is 7.27 and the one calculated by embeddings is 6.220219284296036
+
+Word pair: mouth and tooth
+The standard similarity is 6.3 and the one calculated by embeddings is 3.793184608221054
+
+Word pair: breakfast and bacon
+The standard similarity is 4.37 and the one calculated by embeddings is 5.929602384567261
+
+Word pair: bathroom and bedroom
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: plate and bowl
+The standard similarity is 5.23 and the one calculated by embeddings is 5.626594126224518
+
+Word pair: meat and bacon
+The standard similarity is 5.8 and the one calculated by embeddings is 5.591973587870598
+
+Word pair: air and helium
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: worker and employer
+The standard similarity is 5.37 and the one calculated by embeddings is 5.453927852213383
+
+Word pair: body and chest
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: son and father
+The standard similarity is 3.82 and the one calculated by embeddings is 6.737719029188156
+
+Word pair: heart and surgery
+The standard similarity is 1.08 and the one calculated by embeddings is 6.079029962420464
+
+Word pair: woman and secretary
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: man and father
+The standard similarity is 4.83 and the one calculated by embeddings is 6.016145274043083
+
+Word pair: beach and island
+The standard similarity is 5.6 and the one calculated by embeddings is 6.316313743591309
+
+Word pair: story and topic
+The standard similarity is 5.0 and the one calculated by embeddings is 4.496099390089512
+
+Word pair: game and fun
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: weekend and week
+The standard similarity is 4.0 and the one calculated by embeddings is 6.7090316116809845
+
+Word pair: couple and pair
+The standard similarity is 8.33 and the one calculated by embeddings is 5.470880009233952
+
+Word pair: woman and wife
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: sheep and cattle
+The standard similarity is 4.77 and the one calculated by embeddings is 5.979665741324425
+
+Word pair: purse and bag
+The standard similarity is 8.33 and the one calculated by embeddings is 4.711738154292107
+
+Word pair: ceiling and cathedral
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bean and coffee
+The standard similarity is 5.15 and the one calculated by embeddings is 5.946858301758766
+
+Word pair: wood and paper
+The standard similarity is 2.88 and the one calculated by embeddings is 5.576153174042702
+
+Word pair: top and side
+The standard similarity is 1.9 and the one calculated by embeddings is 5.7711102068424225
+
+Word pair: crime and fraud
+The standard similarity is 5.65 and the one calculated by embeddings is 4.498107805848122
+
+Word pair: pain and harm
+The standard similarity is 5.38 and the one calculated by embeddings is 5.040057124570012
+
+Word pair: lover and companion
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: evening and dusk
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: father and daughter
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wine and liquor
+The standard similarity is 7.85 and the one calculated by embeddings is 5.938618257641792
+
+Word pair: cow and goat
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: belief and opinion
+The standard similarity is 7.7 and the one calculated by embeddings is 5.322836712002754
+
+Word pair: reality and illusion
+The standard similarity is 1.42 and the one calculated by embeddings is 5.074688750319183
+
+Word pair: pact and agreement
+The standard similarity is 9.02 and the one calculated by embeddings is 7.994238436222076
+
+Word pair: wealth and poverty
+The standard similarity is 1.27 and the one calculated by embeddings is 5.30237315222621
+
+Word pair: accident and emergency
+The standard similarity is 4.93 and the one calculated by embeddings is 6.804167330265045
+
+Word pair: battle and conquest
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: friend and teacher
+The standard similarity is 2.62 and the one calculated by embeddings is 4.892886867746711
+
+Word pair: illness and infection
+The standard similarity is 6.9 and the one calculated by embeddings is 5.352586582303047
+
+Word pair: game and trick
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: brother and son
+The standard similarity is 3.48 and the one calculated by embeddings is 5.128745678812265
+
+Word pair: aunt and nephew
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: worker and mechanic
+The standard similarity is 4.92 and the one calculated by embeddings is 5.769152119755745
+
+Word pair: doctor and orthodontist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: oak and maple
+The standard similarity is 6.03 and the one calculated by embeddings is 3.93640398979187
+
+Word pair: bee and queen
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: car and bicycle
+The standard similarity is 3.47 and the one calculated by embeddings is 5.533490143716335
+
+Word pair: goal and quest
+The standard similarity is 5.83 and the one calculated by embeddings is 5.574114918708801
+
+Word pair: august and month
+The standard similarity is 5.53 and the one calculated by embeddings is 6.573255807161331
+
+Word pair: army and squad
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cloud and weather
+The standard similarity is 4.87 and the one calculated by embeddings is 5.654689222574234
+
+Word pair: physician and doctor
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: canyon and valley
+The standard similarity is 6.75 and the one calculated by embeddings is 6.440846771001816
+
+Word pair: river and valley
+The standard similarity is 1.67 and the one calculated by embeddings is 6.4670829474925995
+
+Word pair: sun and sky
+The standard similarity is 2.27 and the one calculated by embeddings is 4.9009377881884575
+
+Word pair: target and arrow
+The standard similarity is 3.25 and the one calculated by embeddings is 4.1304911673069
+
+Word pair: chocolate and pie
+The standard similarity is 2.27 and the one calculated by embeddings is 5.955973640084267
+
+Word pair: circumstance and situation
+The standard similarity is 7.85 and the one calculated by embeddings is 6.1400356143713
+
+Word pair: opinion and choice
+The standard similarity is 5.43 and the one calculated by embeddings is 4.902725648134947
+
+Word pair: rhythm and melody
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: gut and nerve
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: day and dawn
+The standard similarity is 5.47 and the one calculated by embeddings is 5.307661630213261
+
+Word pair: cattle and beef
+The standard similarity is 7.03 and the one calculated by embeddings is 6.919851750135422
+
+Word pair: doctor and professor
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: arm and vein
+The standard similarity is 3.65 and the one calculated by embeddings is 4.72773851826787
+
+Word pair: room and bath
+The standard similarity is 3.33 and the one calculated by embeddings is 5.7772426307201385
+
+Word pair: corporation and business
+The standard similarity is 9.02 and the one calculated by embeddings is 6.745065152645111
+
+Word pair: fun and football
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hill and cliff
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bone and ankle
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: apple and candy
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: helper and maid
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: leader and manager
+The standard similarity is 7.27 and the one calculated by embeddings is 5.729677230119705
+
+Word pair: lemon and tea
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bee and ant
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: basketball and baseball
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: rice and bean
+The standard similarity is 2.72 and the one calculated by embeddings is 7.422649264335632
+
+Word pair: bed and furniture
+The standard similarity is 6.08 and the one calculated by embeddings is 5.792777836322784
+
+Word pair: emotion and passion
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: anarchy and chaos
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: crime and violation
+The standard similarity is 7.12 and the one calculated by embeddings is 6.089495122432709
+
+Word pair: machine and engine
+The standard similarity is 5.58 and the one calculated by embeddings is 5.398396849632263
+
+Word pair: beach and sea
+The standard similarity is 4.68 and the one calculated by embeddings is 6.499446630477905
+
+Word pair: alley and bowl
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: jar and bottle
+The standard similarity is 7.83 and the one calculated by embeddings is 5.674750283360481
+
+Word pair: strength and capability
+The standard similarity is 5.28 and the one calculated by embeddings is 6.247457638382912
+
+Word pair: seed and mustard
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: guitar and drum
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: opinion and idea
+The standard similarity is 5.7 and the one calculated by embeddings is 6.363185346126556
+
+Word pair: north and west
+The standard similarity is 3.63 and the one calculated by embeddings is 6.3924311101436615
+
+Word pair: diet and salad
+The standard similarity is 2.98 and the one calculated by embeddings is 4.80446657165885
+
+Word pair: mother and wife
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: dad and mother
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: captain and sailor
+The standard similarity is 5.0 and the one calculated by embeddings is 5.630151927471161
+
+Word pair: meter and yard
+The standard similarity is 5.6 and the one calculated by embeddings is 5.589538812637329
+
+Word pair: beer and champagne
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: motor and boat
+The standard similarity is 2.57 and the one calculated by embeddings is 5.386416427791119
+
+Word pair: card and bridge
+The standard similarity is 1.97 and the one calculated by embeddings is 6.711325645446777
+
+Word pair: science and psychology
+The standard similarity is 4.92 and the one calculated by embeddings is 5.465198792517185
+
+Word pair: sinner and saint
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: destruction and construction
+The standard similarity is 0.98 and the one calculated by embeddings is 5.147337466478348
+
+Word pair: crowd and bunch
+The standard similarity is 7.42 and the one calculated by embeddings is 5.47326847910881
+
+Word pair: beach and reef
+The standard similarity is 3.77 and the one calculated by embeddings is 5.562168471515179
+
+Word pair: man and child
+The standard similarity is 4.13 and the one calculated by embeddings is 5.127723263576627
+
+Word pair: bread and cheese
+The standard similarity is 1.95 and the one calculated by embeddings is 5.200084205716848
+
+Word pair: champion and winner
+The standard similarity is 8.73 and the one calculated by embeddings is 4.823137316852808
+
+Word pair: celebration and ceremony
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: menu and order
+The standard similarity is 3.62 and the one calculated by embeddings is 4.903440102934837
+
+Word pair: king and princess
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wealth and prestige
+The standard similarity is 6.07 and the one calculated by embeddings is 5.241095069795847
+
+Word pair: endurance and strength
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: danger and threat
+The standard similarity is 8.78 and the one calculated by embeddings is 6.147378012537956
+
+Word pair: god and priest
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: men and fraternity
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: buddy and companion
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: teacher and helper
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: body and stomach
+The standard similarity is 3.93 and the one calculated by embeddings is 5.160471759736538
+
+Word pair: tongue and throat
+The standard similarity is 3.1 and the one calculated by embeddings is 4.89575507119298
+
+Word pair: house and carpet
+The standard similarity is 1.38 and the one calculated by embeddings is 5.21310567855835
+
+Word pair: intelligence and skill
+The standard similarity is 5.35 and the one calculated by embeddings is 4.974080242682248
+
+Word pair: journey and conquest
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: god and prey
+The standard similarity is 1.23 and the one calculated by embeddings is 6.181695386767387
+
+Word pair: brother and soul
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: adversary and opponent
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: death and catastrophe
+The standard similarity is 4.13 and the one calculated by embeddings is 5.021068782079965
+
+Word pair: monster and demon
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: day and morning
+The standard similarity is 4.87 and the one calculated by embeddings is 6.515943557024002
+
+Word pair: man and victor
+The standard similarity is 1.9 and the one calculated by embeddings is 5.404932424426079
+
+Word pair: friend and guy
+The standard similarity is 3.88 and the one calculated by embeddings is 5.432240404188633
+
+Word pair: song and story
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ray and sunshine
+The standard similarity is 6.83 and the one calculated by embeddings is 6.464322656393051
+
+Word pair: guy and stud
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: chicken and rice
+The standard similarity is 1.43 and the one calculated by embeddings is 5.181462615728378
+
+Word pair: box and elevator
+The standard similarity is 1.32 and the one calculated by embeddings is 5.245882049202919
+
+Word pair: butter and potato
+The standard similarity is 1.22 and the one calculated by embeddings is 6.399064064025879
+
+Word pair: apartment and furniture
+The standard similarity is 1.28 and the one calculated by embeddings is 4.806649927049875
+
+Word pair: lake and swamp
+The standard similarity is 4.92 and the one calculated by embeddings is 5.320148915052414
+
+Word pair: salad and vinegar
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: flower and bulb
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cloud and mist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: driver and pilot
+The standard similarity is 6.28 and the one calculated by embeddings is 4.982030655955896
+
+Word pair: sugar and honey
+The standard similarity is 5.13 and the one calculated by embeddings is 5.405866131186485
+
+Word pair: body and shoulder
+The standard similarity is 2.88 and the one calculated by embeddings is 6.2839822471141815
+
+Word pair: idea and image
+The standard similarity is 3.55 and the one calculated by embeddings is 5.88767409324646
+
+Word pair: father and brother
+The standard similarity is 4.2 and the one calculated by embeddings is 6.684738844633102
+
+Word pair: moon and planet
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ball and costume
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: rail and fence
+The standard similarity is 5.22 and the one calculated by embeddings is 5.703434497117996
+
+Word pair: room and bed
+The standard similarity is 2.35 and the one calculated by embeddings is 5.204641185700893
+
+Word pair: flower and bush
+The standard similarity is 4.25 and the one calculated by embeddings is 5.621904656291008
+
+Word pair: bone and knee
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: arm and knee
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bottom and side
+The standard similarity is 2.63 and the one calculated by embeddings is 5.962892696261406
+
+Word pair: vessel and vein
+The standard similarity is 5.15 and the one calculated by embeddings is 4.98405470745638
+
+Word pair: cat and rabbit
+The standard similarity is 2.37 and the one calculated by embeddings is 4.866111148148775
+
+Word pair: meat and sandwich
+The standard similarity is 2.35 and the one calculated by embeddings is 5.323404036462307
+
+Word pair: belief and concept
+The standard similarity is 5.08 and the one calculated by embeddings is 5.464161708950996
+
+Word pair: intelligence and insight
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: attention and interest
+The standard similarity is 7.22 and the one calculated by embeddings is 6.467885971069336
+
+Word pair: attitude and confidence
+The standard similarity is 4.35 and the one calculated by embeddings is 6.241062134504318
+
+Word pair: right and justice
+The standard similarity is 7.05 and the one calculated by embeddings is 5.001406674855389
+
+Word pair: argument and agreement
+The standard similarity is 1.45 and the one calculated by embeddings is 6.2013330310583115
+
+Word pair: depth and magnitude
+The standard similarity is 6.12 and the one calculated by embeddings is 5.410373620688915
+
+Word pair: medium and news
+The standard similarity is 3.65 and the one calculated by embeddings is 5.070148310624063
+
+Word pair: winner and candidate
+The standard similarity is 2.78 and the one calculated by embeddings is 6.067236512899399
+
+Word pair: birthday and date
+The standard similarity is 5.08 and the one calculated by embeddings is 4.449378587305546
+
+Word pair: fee and payment
+The standard similarity is 7.15 and the one calculated by embeddings is 4.774395972490311
+
+Word pair: bible and hymn
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: exit and doorway
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: man and sentry
+The standard similarity is 3.25 and the one calculated by embeddings is 4.51754555106163
+
+Word pair: aisle and hall
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: whiskey and gin
+The standard similarity is 6.28 and the one calculated by embeddings is 5.38936622440815
+
+Word pair: blood and marrow
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: oil and mink
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: floor and deck
+The standard similarity is 5.55 and the one calculated by embeddings is 6.920812726020813
+
+Word pair: roof and floor
+The standard similarity is 2.62 and the one calculated by embeddings is 4.9998266751208575
+
+Word pair: door and floor
+The standard similarity is 1.67 and the one calculated by embeddings is 6.4431025087833405
+
+Word pair: shoulder and head
+The standard similarity is 3.42 and the one calculated by embeddings is 5.7286084443330765
+
+Word pair: wagon and carriage
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: car and carriage
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: elbow and ankle
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wealth and fame
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: sorrow and shame
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: administration and management
+The standard similarity is 7.25 and the one calculated by embeddings is 6.0479892790317535
+
+Word pair: communication and conversation
+The standard similarity is 8.02 and the one calculated by embeddings is 4.842793587595224
+
+Word pair: pollution and atmosphere
+The standard similarity is 4.25 and the one calculated by embeddings is 6.153506860136986
+
+Word pair: anatomy and biology
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: college and profession
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: book and topic
+The standard similarity is 2.07 and the one calculated by embeddings is 4.867457412183285
+
+Word pair: formula and equation
+The standard similarity is 7.95 and the one calculated by embeddings is 5.195990819483995
+
+Word pair: book and information
+The standard similarity is 5.0 and the one calculated by embeddings is 5.796940699219704
+
+Word pair: boy and partner
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: sky and universe
+The standard similarity is 4.68 and the one calculated by embeddings is 5.1280512008816
+
+Word pair: population and people
+The standard similarity is 7.68 and the one calculated by embeddings is 5.093455426394939
+
+Word pair: college and class
+The standard similarity is 4.13 and the one calculated by embeddings is 4.149222820997238
+
+Word pair: chief and mayor
+The standard similarity is 4.85 and the one calculated by embeddings is 5.13350298628211
+
+Word pair: rabbi and minister
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: meter and inch
+The standard similarity is 5.08 and the one calculated by embeddings is 5.166690181940794
+
+Word pair: polyester and cotton
+The standard similarity is 5.63 and the one calculated by embeddings is 5.372234880924225
+
+Word pair: lawyer and banker
+The standard similarity is 1.88 and the one calculated by embeddings is 6.4311254024505615
+
+Word pair: violin and instrument
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: camp and cabin
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: pot and appliance
+The standard similarity is 2.53 and the one calculated by embeddings is 5.6711020320653915
+
+Word pair: linen and fabric
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: whiskey and champagne
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: girl and child
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cottage and cabin
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bird and hen
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: racket and noise
+The standard similarity is 8.1 and the one calculated by embeddings is 5.259400904178619
+
+Word pair: sunset and evening
+The standard similarity is 5.98 and the one calculated by embeddings is 5.373432636260986
+
+Word pair: drizzle and rain
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: adult and baby
+The standard similarity is 2.22 and the one calculated by embeddings is 4.8899744264781475
+
+Word pair: charcoal and coal
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: body and spine
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: head and nail
+The standard similarity is 2.47 and the one calculated by embeddings is 4.0864866971969604
+
+Word pair: log and timber
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: spoon and cup
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: body and nerve
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: man and husband
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bone and neck
+The standard similarity is 2.53 and the one calculated by embeddings is 5.24907061830163
+
+Word pair: frustration and anger
+The standard similarity is 6.5 and the one calculated by embeddings is 6.540304869413376
+
+Word pair: river and sea
+The standard similarity is 5.72 and the one calculated by embeddings is 5.706934481859207
+
+Word pair: task and job
+The standard similarity is 8.87 and the one calculated by embeddings is 5.946356579661369
+
+Word pair: club and society
+The standard similarity is 5.23 and the one calculated by embeddings is 5.176888424903154
+
+Word pair: reflection and image
+The standard similarity is 7.27 and the one calculated by embeddings is 6.3726359605789185
+
+Word pair: prince and king
+The standard similarity is 5.92 and the one calculated by embeddings is 5.0631573516875505
+
+Word pair: snow and weather
+The standard similarity is 5.48 and the one calculated by embeddings is 5.01470202812925
+
+Word pair: people and party
+The standard similarity is 2.2 and the one calculated by embeddings is 5.510291010141373
+
+Word pair: boy and brother
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: root and grass
+The standard similarity is 3.55 and the one calculated by embeddings is 4.722566679120064
+
+Word pair: brow and eye
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: money and pearl
+The standard similarity is 2.1 and the one calculated by embeddings is 5.660064518451691
+
+Word pair: money and diamond
+The standard similarity is 3.42 and the one calculated by embeddings is 4.921805588528514
+
+Word pair: vehicle and bus
+The standard similarity is 6.47 and the one calculated by embeddings is 5.454237051308155
+
+Word pair: cab and bus
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: house and barn
+The standard similarity is 4.33 and the one calculated by embeddings is 5.052808434702456
+
+Word pair: finger and palm
+The standard similarity is 3.33 and the one calculated by embeddings is 5.4306454211473465
+
+Word pair: car and bridge
+The standard similarity is 0.95 and the one calculated by embeddings is 4.4925617426633835
+
+Word pair: effort and difficulty
+The standard similarity is 4.45 and the one calculated by embeddings is 6.285843253135681
+
+Word pair: fact and insight
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: job and management
+The standard similarity is 3.97 and the one calculated by embeddings is 6.212348863482475
+
+Word pair: cancer and sickness
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: word and newspaper
+The standard similarity is 2.47 and the one calculated by embeddings is 5.776219964027405
+
+Word pair: composer and writer
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: actor and singer
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: shelter and hut
+The standard similarity is 6.47 and the one calculated by embeddings is 6.226170063018799
+
+Word pair: bathroom and kitchen
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cabin and hut
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: door and kitchen
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: value and belief
+The standard similarity is 7.07 and the one calculated by embeddings is 6.293662339448929
+
+Word pair: wisdom and intelligence
+The standard similarity is 7.47 and the one calculated by embeddings is 6.213181987404823
+
+Word pair: ignorance and intelligence
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: happiness and luck
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: idea and scheme
+The standard similarity is 6.75 and the one calculated by embeddings is 6.3622622191905975
+
+Word pair: mood and emotion
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: happiness and peace
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: despair and misery
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: logic and arithmetic
+The standard similarity is 3.97 and the one calculated by embeddings is 5.862858667969704
+
+Word pair: denial and confession
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: argument and criticism
+The standard similarity is 5.08 and the one calculated by embeddings is 6.75679475069046
+
+Word pair: aggression and hostility
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hysteria and confusion
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: chemistry and theory
+The standard similarity is 3.17 and the one calculated by embeddings is 5.269342307001352
+
+Word pair: trial and verdict
+The standard similarity is 3.33 and the one calculated by embeddings is 5.328130796551704
+
+Word pair: comfort and safety
+The standard similarity is 5.8 and the one calculated by embeddings is 5.364778563380241
+
+Word pair: confidence and self
+The standard similarity is 3.12 and the one calculated by embeddings is 5.684241056442261
+
+Word pair: vision and perception
+The standard similarity is 6.88 and the one calculated by embeddings is 5.8654530346393585
+
+Word pair: era and decade
+The standard similarity is 5.4 and the one calculated by embeddings is 6.284138411283493
+
+Word pair: biography and fiction
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: discussion and argument
+The standard similarity is 5.48 and the one calculated by embeddings is 5.745011270046234
+
+Word pair: code and symbol
+The standard similarity is 6.03 and the one calculated by embeddings is 4.757693503051996
+
+Word pair: danger and disease
+The standard similarity is 3.0 and the one calculated by embeddings is 6.587953418493271
+
+Word pair: accident and catastrophe
+The standard similarity is 5.9 and the one calculated by embeddings is 5.6121887266635895
+
+Word pair: journey and trip
+The standard similarity is 8.88 and the one calculated by embeddings is 5.781882330775261
+
+Word pair: activity and movement
+The standard similarity is 7.15 and the one calculated by embeddings is 6.095961928367615
+
+Word pair: gossip and news
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: father and god
+The standard similarity is 3.57 and the one calculated by embeddings is 5.076554883271456
+
+Word pair: action and course
+The standard similarity is 5.45 and the one calculated by embeddings is 6.076808720827103
+
+Word pair: fever and illness
+The standard similarity is 7.65 and the one calculated by embeddings is 4.9551540380343795
+
+Word pair: aviation and flight
+The standard similarity is 8.18 and the one calculated by embeddings is 5.2523427084088326
+
+Word pair: game and action
+The standard similarity is 4.85 and the one calculated by embeddings is 5.853756293654442
+
+Word pair: molecule and air
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: home and state
+The standard similarity is 2.58 and the one calculated by embeddings is 4.531891420483589
+
+Word pair: word and literature
+The standard similarity is 4.77 and the one calculated by embeddings is 6.031630039215088
+
+Word pair: adult and guardian
+The standard similarity is 6.9 and the one calculated by embeddings is 5.5865563079714775
+
+Word pair: newspaper and information
+The standard similarity is 5.65 and the one calculated by embeddings is 4.716133363544941
+
+Word pair: communication and television
+The standard similarity is 5.6 and the one calculated by embeddings is 5.353035442531109
+
+Word pair: cousin and uncle
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: author and reader
+The standard similarity is 1.6 and the one calculated by embeddings is 6.168224513530731
+
+Word pair: guy and partner
+The standard similarity is 3.57 and the one calculated by embeddings is 5.687676519155502
+
+Word pair: area and corner
+The standard similarity is 2.07 and the one calculated by embeddings is 5.5997514724731445
+
+Word pair: ballad and song
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wall and decoration
+The standard similarity is 2.62 and the one calculated by embeddings is 4.928453997708857
+
+Word pair: word and page
+The standard similarity is 2.92 and the one calculated by embeddings is 4.719299413263798
+
+Word pair: nurse and scientist
+The standard similarity is 2.08 and the one calculated by embeddings is 4.874751102179289
+
+Word pair: politician and president
+The standard similarity is 7.38 and the one calculated by embeddings is 5.392303019762039
+
+Word pair: president and mayor
+The standard similarity is 5.68 and the one calculated by embeddings is 5.260186735540628
+
+Word pair: book and essay
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: man and warrior
+The standard similarity is 4.72 and the one calculated by embeddings is 5.921419486403465
+
+Word pair: article and journal
+The standard similarity is 6.18 and the one calculated by embeddings is 5.333044417202473
+
+Word pair: breakfast and supper
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: crowd and parade
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: aisle and hallway
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: teacher and rabbi
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hip and lip
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: book and article
+The standard similarity is 5.43 and the one calculated by embeddings is 5.230103246867657
+
+Word pair: room and cell
+The standard similarity is 4.58 and the one calculated by embeddings is 5.655050426721573
+
+Word pair: box and booth
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: daughter and kid
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: limb and leg
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: liver and lung
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: classroom and hallway
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: mountain and ledge
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: car and elevator
+The standard similarity is 1.03 and the one calculated by embeddings is 5.087691815569997
+
+Word pair: bed and couch
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: clothes and button
+The standard similarity is 2.3 and the one calculated by embeddings is 5.483943149447441
+
+Word pair: clothes and coat
+The standard similarity is 5.35 and the one calculated by embeddings is 4.839410688728094
+
+Word pair: kidney and organ
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: apple and sauce
+The standard similarity is 1.43 and the one calculated by embeddings is 5.408136546611786
+
+Word pair: chicken and steak
+The standard similarity is 3.73 and the one calculated by embeddings is 5.536044202744961
+
+Word pair: car and hose
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: tobacco and cigarette
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: student and professor
+The standard similarity is 1.95 and the one calculated by embeddings is 5.878708586096764
+
+Word pair: baby and daughter
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: pipe and cigar
+The standard similarity is 6.03 and the one calculated by embeddings is 3.6675438284873962
+
+Word pair: milk and juice
+The standard similarity is 4.05 and the one calculated by embeddings is 7.074468284845352
+
+Word pair: box and cigar
+The standard similarity is 1.25 and the one calculated by embeddings is 3.859526365995407
+
+Word pair: apartment and hotel
+The standard similarity is 3.33 and the one calculated by embeddings is 5.638396367430687
+
+Word pair: cup and cone
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: horse and ox
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: throat and nose
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bone and teeth
+The standard similarity is 4.17 and the one calculated by embeddings is 5.015939169097692
+
+Word pair: bone and elbow
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bacon and bean
+The standard similarity is 1.22 and the one calculated by embeddings is 5.261193197220564
+
+Word pair: cup and jar
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: proof and fact
+The standard similarity is 7.3 and the one calculated by embeddings is 6.528685837984085
+
+Word pair: appointment and engagement
+The standard similarity is 6.75 and the one calculated by embeddings is 5.643997043371201
+
+Word pair: birthday and year
+The standard similarity is 1.67 and the one calculated by embeddings is 5.267657171934843
+
+Word pair: word and clue
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: author and creator
+The standard similarity is 8.02 and the one calculated by embeddings is 5.411820411682129
+
+Word pair: atom and carbon
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: archbishop and bishop
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: letter and paragraph
+The standard similarity is 4.0 and the one calculated by embeddings is 5.661920383572578
+
+Word pair: page and paragraph
+The standard similarity is 3.03 and the one calculated by embeddings is 5.070625632070005
+
+Word pair: steeple and chapel
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: muscle and bone
+The standard similarity is 3.65 and the one calculated by embeddings is 5.707704722881317
+
+Word pair: muscle and tongue
+The standard similarity is 5.0 and the one calculated by embeddings is 4.161653220653534
+
+Word pair: boy and soldier
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: belly and abdomen
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: guy and girl
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bed and chair
+The standard similarity is 3.5 and the one calculated by embeddings is 5.69587878882885
+
+Word pair: clothes and jacket
+The standard similarity is 5.15 and the one calculated by embeddings is 5.208520945161581
+
+Word pair: gun and knife
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: tin and metal
+The standard similarity is 5.63 and the one calculated by embeddings is 6.305275708436966
+
+Word pair: bottle and container
+The standard similarity is 7.93 and the one calculated by embeddings is 5.7400499284267426
+
+Word pair: hen and turkey
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: meat and bread
+The standard similarity is 1.67 and the one calculated by embeddings is 5.602669268846512
+
+Word pair: arm and bone
+The standard similarity is 3.83 and the one calculated by embeddings is 4.417172074317932
+
+Word pair: neck and spine
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: apple and lemon
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: agony and grief
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: assignment and task
+The standard similarity is 8.7 and the one calculated by embeddings is 5.949000492691994
+
+Word pair: night and dawn
+The standard similarity is 2.95 and the one calculated by embeddings is 5.185278058052063
+
+Word pair: dinner and soup
+The standard similarity is 3.72 and the one calculated by embeddings is 3.8770758360624313
+
+Word pair: calf and bull
+The standard similarity is 4.93 and the one calculated by embeddings is 4.857340222224593
+
+Word pair: snow and storm
+The standard similarity is 4.8 and the one calculated by embeddings is 5.43712105602026
+
+Word pair: nail and hand
+The standard similarity is 3.42 and the one calculated by embeddings is 6.411967575550079
+
+Word pair: dog and horse
+The standard similarity is 2.38 and the one calculated by embeddings is 5.058732545003295
+
+Word pair: arm and neck
+The standard similarity is 1.58 and the one calculated by embeddings is 5.994371101260185
+
+Word pair: ball and glove
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: flu and fever
+The standard similarity is 6.08 and the one calculated by embeddings is 5.449659265577793
+
+Word pair: fee and salary
+The standard similarity is 3.72 and the one calculated by embeddings is 5.554130561649799
+
+Word pair: nerve and brain
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: beast and animal
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: dinner and chicken
+The standard similarity is 2.85 and the one calculated by embeddings is 5.154444267973304
+
+Word pair: girl and maid
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: child and boy
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: alcohol and wine
+The standard similarity is 7.42 and the one calculated by embeddings is 5.948507711291313
+
+Word pair: nose and mouth
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: street and car
+The standard similarity is 2.38 and the one calculated by embeddings is 4.91122986190021
+
+Word pair: bell and door
+The standard similarity is 2.2 and the one calculated by embeddings is 4.7939361445605755
+
+Word pair: box and hat
+The standard similarity is 1.3 and the one calculated by embeddings is 5.378583706915379
+
+Word pair: belief and impression
+The standard similarity is 5.95 and the one calculated by embeddings is 6.5366581082344055
+
+Word pair: bias and opinion
+The standard similarity is 5.6 and the one calculated by embeddings is 4.65621393173933
+
+Word pair: attention and awareness
+The standard similarity is 8.73 and the one calculated by embeddings is 4.644009955227375
+
+Word pair: anger and mood
+The standard similarity is 4.1 and the one calculated by embeddings is 6.409274786710739
+
+Word pair: elegance and style
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: beauty and age
+The standard similarity is 1.58 and the one calculated by embeddings is 5.707445815205574
+
+Word pair: book and theme
+The standard similarity is 2.58 and the one calculated by embeddings is 5.801951214671135
+
+Word pair: friend and mother
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: vitamin and iron
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: car and factory
+The standard similarity is 2.75 and the one calculated by embeddings is 5.5375876650214195
+
+Word pair: pact and condition
+The standard similarity is 2.45 and the one calculated by embeddings is 4.892248082906008
+
+Word pair: chapter and choice
+The standard similarity is 0.48 and the one calculated by embeddings is 5.178184024989605
+
+Word pair: arithmetic and rhythm
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: winner and presence
+The standard similarity is 1.08 and the one calculated by embeddings is 6.507897526025772
+
+Word pair: belief and flower
+The standard similarity is 0.4 and the one calculated by embeddings is 4.457565993070602
+
+Word pair: winner and goal
+The standard similarity is 3.23 and the one calculated by embeddings is 5.183896217495203
+
+Word pair: trick and size
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: choice and vein
+The standard similarity is 0.98 and the one calculated by embeddings is 4.865855863317847
+
+Word pair: hymn and conquest
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: endurance and band
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: jail and choice
+The standard similarity is 1.08 and the one calculated by embeddings is 5.945275500416756
+
+Word pair: condition and boy
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: flower and endurance
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: hole and agreement
+The standard similarity is 0.3 and the one calculated by embeddings is 4.741613455116749
+
+Word pair: doctor and temper
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: fraternity and door
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: task and woman
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: fraternity and baseball
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cent and size
+The standard similarity is 0.4 and the one calculated by embeddings is 4.903325205668807
+
+Word pair: presence and door
+The standard similarity is 0.48 and the one calculated by embeddings is 5.491283126175404
+
+Word pair: mouse and management
+The standard similarity is 0.48 and the one calculated by embeddings is 4.295922517776489
+
+Word pair: task and highway
+The standard similarity is 0.48 and the one calculated by embeddings is 6.197492480278015
+
+Word pair: liquor and century
+The standard similarity is 0.4 and the one calculated by embeddings is 4.896306740120053
+
+Word pair: task and straw
+The standard similarity is 0.68 and the one calculated by embeddings is 4.419237747788429
+
+Word pair: island and task
+The standard similarity is 0.3 and the one calculated by embeddings is 5.99467471241951
+
+Word pair: night and chapter
+The standard similarity is 0.48 and the one calculated by embeddings is 4.502152502536774
+
+Word pair: pollution and president
+The standard similarity is 0.68 and the one calculated by embeddings is 5.396673120558262
+
+Word pair: gun and trick
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bath and trick
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: diet and apple
+The standard similarity is 1.18 and the one calculated by embeddings is 5.4444461688399315
+
+Word pair: cent and wife
+The standard similarity is 0.58 and the one calculated by embeddings is 6.12267792224884
+
+Word pair: chapter and tail
+The standard similarity is 0.3 and the one calculated by embeddings is 4.545522592961788
+
+Word pair: course and stomach
+The standard similarity is 0.58 and the one calculated by embeddings is 6.3438452780246735
+
+Word pair: hymn and straw
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: dentist and colonel
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: wife and straw
+The standard similarity is 0.4 and the one calculated by embeddings is 5.100962026044726
+
+Word pair: hole and wife
+The standard similarity is 0.68 and the one calculated by embeddings is 5.245652832090855
+
+Word pair: pupil and president
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bath and wife
+The standard similarity is 0.48 and the one calculated by embeddings is 5.2671667374670506
+
+Word pair: people and cent
+The standard similarity is 0.48 and the one calculated by embeddings is 5.1990727335214615
+
+Word pair: formula and log
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: woman and fur
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: apple and sunshine
+The standard similarity is 0.58 and the one calculated by embeddings is 5.929571837186813
+
+Word pair: gun and dawn
+The standard similarity is 1.18 and the one calculated by embeddings is 4.958342015743256
+
+Word pair: meal and waist
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: camera and president
+The standard similarity is 0.48 and the one calculated by embeddings is 6.324753165245056
+
+Word pair: liquor and band
+The standard similarity is 0.68 and the one calculated by embeddings is 4.836871102452278
+
+Word pair: stomach and vein
+The standard similarity is 2.35 and the one calculated by embeddings is 5.468239150941372
+
+Word pair: gun and fur
+The standard similarity is 0.3 and the one calculated by embeddings is 5.348587855696678
+
+Word pair: couch and baseball
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: worker and camera
+The standard similarity is 0.68 and the one calculated by embeddings is 5.682720020413399
+
+Word pair: deck and mouse
+The standard similarity is 0.48 and the one calculated by embeddings is 4.536803252995014
+
+Word pair: rice and boy
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: people and gun
+The standard similarity is 0.68 and the one calculated by embeddings is 4.620457962155342
+
+Word pair: cliff and tail
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ankle and window
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: princess and island
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: container and mouse
+The standard similarity is 0.3 and the one calculated by embeddings is 6.226699724793434
+
+Word pair: wagon and container
+The standard similarity is 2.65 and the one calculated by embeddings is 6.115792915225029
+
+Word pair: people and balloon
+The standard similarity is 0.48 and the one calculated by embeddings is 5.217139218002558
+
+Word pair: dollar and people
+The standard similarity is 0.4 and the one calculated by embeddings is 6.267128437757492
+
+Word pair: bath and balloon
+The standard similarity is 0.4 and the one calculated by embeddings is 4.811517056077719
+
+Word pair: stomach and bedroom
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bicycle and bedroom
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: log and bath
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: bowl and tail
+The standard similarity is 0.48 and the one calculated by embeddings is 6.043974459171295
+
+Word pair: go and come
+The standard similarity is 2.42 and the one calculated by embeddings is 7.319439351558685
+
+Word pair: take and steal
+The standard similarity is 6.18 and the one calculated by embeddings is 5.968688428401947
+
+Word pair: listen and hear
+The standard similarity is 8.17 and the one calculated by embeddings is 5.9164097905159
+
+Word pair: think and rationalize
+The standard similarity is 8.25 and the one calculated by embeddings is 5.596643723547459
+
+Word pair: occur and happen
+The standard similarity is 9.32 and the one calculated by embeddings is 7.144341766834259
+
+Word pair: vanish and disappear
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: multiply and divide
+The standard similarity is 1.75 and the one calculated by embeddings is 4.245692193508148
+
+Word pair: plead and beg
+The standard similarity is 9.08 and the one calculated by embeddings is 5.069643305614591
+
+Word pair: begin and originate
+The standard similarity is 8.2 and the one calculated by embeddings is 5.473972968757153
+
+Word pair: protect and defend
+The standard similarity is 9.13 and the one calculated by embeddings is 7.442859709262848
+
+Word pair: kill and destroy
+The standard similarity is 5.9 and the one calculated by embeddings is 5.7118115574121475
+
+Word pair: create and make
+The standard similarity is 8.72 and the one calculated by embeddings is 6.918647140264511
+
+Word pair: accept and reject
+The standard similarity is 0.83 and the one calculated by embeddings is 7.165557295084
+
+Word pair: ignore and avoid
+The standard similarity is 6.87 and the one calculated by embeddings is 6.4837077260017395
+
+Word pair: carry and bring
+The standard similarity is 5.8 and the one calculated by embeddings is 7.249106913805008
+
+Word pair: leave and enter
+The standard similarity is 0.95 and the one calculated by embeddings is 6.963972300291061
+
+Word pair: choose and elect
+The standard similarity is 7.62 and the one calculated by embeddings is 5.366675481200218
+
+Word pair: lose and fail
+The standard similarity is 7.33 and the one calculated by embeddings is 7.404932081699371
+
+Word pair: encourage and discourage
+The standard similarity is 1.58 and the one calculated by embeddings is 6.625178307294846
+
+Word pair: achieve and accomplish
+The standard similarity is 8.57 and the one calculated by embeddings is 6.4418089389801025
+
+Word pair: make and construct
+The standard similarity is 8.33 and the one calculated by embeddings is 5.273934341967106
+
+Word pair: listen and obey
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: inform and notify
+The standard similarity is 9.25 and the one calculated by embeddings is 5.843740105628967
+
+Word pair: receive and give
+The standard similarity is 1.47 and the one calculated by embeddings is 6.289636790752411
+
+Word pair: borrow and beg
+The standard similarity is 2.62 and the one calculated by embeddings is 6.1441683024168015
+
+Word pair: take and obtain
+The standard similarity is 7.1 and the one calculated by embeddings is 7.312571108341217
+
+Word pair: advise and recommend
+The standard similarity is 8.1 and the one calculated by embeddings is 6.480919271707535
+
+Word pair: imitate and portray
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: win and succeed
+The standard similarity is 7.9 and the one calculated by embeddings is 6.166511550545692
+
+Word pair: think and decide
+The standard similarity is 5.13 and the one calculated by embeddings is 6.5628881752491
+
+Word pair: greet and meet
+The standard similarity is 6.17 and the one calculated by embeddings is 5.166844110935926
+
+Word pair: agree and argue
+The standard similarity is 0.77 and the one calculated by embeddings is 4.834381565451622
+
+Word pair: enjoy and entertain
+The standard similarity is 5.92 and the one calculated by embeddings is 5.822065100073814
+
+Word pair: destroy and make
+The standard similarity is 1.6 and the one calculated by embeddings is 6.103965789079666
+
+Word pair: save and protect
+The standard similarity is 6.58 and the one calculated by embeddings is 6.2041182070970535
+
+Word pair: give and lend
+The standard similarity is 7.22 and the one calculated by embeddings is 5.987321510910988
+
+Word pair: understand and know
+The standard similarity is 7.47 and the one calculated by embeddings is 7.370354384183884
+
+Word pair: take and receive
+The standard similarity is 5.08 and the one calculated by embeddings is 6.929946392774582
+
+Word pair: accept and acknowledge
+The standard similarity is 6.88 and the one calculated by embeddings is 5.328117683529854
+
+Word pair: decide and choose
+The standard similarity is 8.87 and the one calculated by embeddings is 7.1651919186115265
+
+Word pair: accept and believe
+The standard similarity is 6.75 and the one calculated by embeddings is 5.835976451635361
+
+Word pair: keep and possess
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: roam and wander
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: succeed and fail
+The standard similarity is 0.83 and the one calculated by embeddings is 5.690577998757362
+
+Word pair: spend and save
+The standard similarity is 0.55 and the one calculated by embeddings is 6.2354013323783875
+
+Word pair: leave and go
+The standard similarity is 7.63 and the one calculated by embeddings is 5.996434316039085
+
+Word pair: come and attend
+The standard similarity is 8.1 and the one calculated by embeddings is 6.475227177143097
+
+Word pair: know and believe
+The standard similarity is 5.5 and the one calculated by embeddings is 7.435792982578278
+
+Word pair: gather and meet
+The standard similarity is 7.3 and the one calculated by embeddings is 5.65353088080883
+
+Word pair: make and earn
+The standard similarity is 7.62 and the one calculated by embeddings is 7.518883943557739
+
+Word pair: forget and ignore
+The standard similarity is 3.07 and the one calculated by embeddings is 5.272011384367943
+
+Word pair: multiply and add
+The standard similarity is 2.7 and the one calculated by embeddings is 5.743768662214279
+
+Word pair: shrink and grow
+The standard similarity is 0.23 and the one calculated by embeddings is 6.564554572105408
+
+Word pair: arrive and leave
+The standard similarity is 1.33 and the one calculated by embeddings is 5.640568733215332
+
+Word pair: succeed and try
+The standard similarity is 3.98 and the one calculated by embeddings is 6.096742153167725
+
+Word pair: accept and deny
+The standard similarity is 1.75 and the one calculated by embeddings is 6.178140044212341
+
+Word pair: arrive and come
+The standard similarity is 7.05 and the one calculated by embeddings is 7.50419020652771
+
+Word pair: agree and differ
+The standard similarity is 1.05 and the one calculated by embeddings is 5.631493330001831
+
+Word pair: send and receive
+The standard similarity is 1.08 and the one calculated by embeddings is 7.074233591556549
+
+Word pair: win and dominate
+The standard similarity is 5.68 and the one calculated by embeddings is 6.443950831890106
+
+Word pair: add and divide
+The standard similarity is 2.3 and the one calculated by embeddings is 5.987703800201416
+
+Word pair: kill and choke
+The standard similarity is 4.92 and the one calculated by embeddings is 4.892981145530939
+
+Word pair: acquire and get
+The standard similarity is 8.82 and the one calculated by embeddings is 6.480216234922409
+
+Word pair: participate and join
+The standard similarity is 7.7 and the one calculated by embeddings is 6.874511390924454
+
+Word pair: leave and remain
+The standard similarity is 2.53 and the one calculated by embeddings is 6.11002653837204
+
+Word pair: go and enter
+The standard similarity is 4.0 and the one calculated by embeddings is 6.929432898759842
+
+Word pair: take and carry
+The standard similarity is 5.23 and the one calculated by embeddings is 7.010727077722549
+
+Word pair: forget and learn
+The standard similarity is 1.18 and the one calculated by embeddings is 5.706569999456406
+
+Word pair: appoint and elect
+The standard similarity is 8.17 and the one calculated by embeddings is 6.12113893032074
+
+Word pair: engage and marry
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ask and pray
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: go and send
+The standard similarity is 3.75 and the one calculated by embeddings is 6.198905408382416
+
+Word pair: take and deliver
+The standard similarity is 4.37 and the one calculated by embeddings is 6.6634635627269745
+
+Word pair: speak and hear
+The standard similarity is 3.02 and the one calculated by embeddings is 5.940903872251511
+
+Word pair: analyze and evaluate
+The standard similarity is 8.03 and the one calculated by embeddings is 6.024053692817688
+
+Word pair: argue and rationalize
+The standard similarity is 4.2 and the one calculated by embeddings is 6.184288188815117
+
+Word pair: lose and keep
+The standard similarity is 1.05 and the one calculated by embeddings is 7.282286286354065
+
+Word pair: compare and analyze
+The standard similarity is 8.1 and the one calculated by embeddings is 5.107617257162929
+
+Word pair: disorganize and organize
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: go and allow
+The standard similarity is 3.62 and the one calculated by embeddings is 6.771011054515839
+
+Word pair: take and possess
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: learn and listen
+The standard similarity is 3.88 and the one calculated by embeddings is 5.550435520708561
+
+Word pair: destroy and construct
+The standard similarity is 0.92 and the one calculated by embeddings is 5.298639219254255
+
+Word pair: create and build
+The standard similarity is 8.48 and the one calculated by embeddings is 6.897582113742828
+
+Word pair: steal and buy
+The standard similarity is 1.13 and the one calculated by embeddings is 5.243653375655413
+
+Word pair: kill and hang
+The standard similarity is 4.45 and the one calculated by embeddings is 6.028251871466637
+
+Word pair: forget and know
+The standard similarity is 0.92 and the one calculated by embeddings is 7.505279779434204
+
+Word pair: create and imagine
+The standard similarity is 5.13 and the one calculated by embeddings is 5.3951458260416985
+
+Word pair: do and happen
+The standard similarity is 4.23 and the one calculated by embeddings is 6.170276626944542
+
+Word pair: win and accomplish
+The standard similarity is 7.85 and the one calculated by embeddings is 5.257417187094688
+
+Word pair: give and deny
+The standard similarity is 1.43 and the one calculated by embeddings is 5.759247690439224
+
+Word pair: deserve and earn
+The standard similarity is 5.8 and the one calculated by embeddings is 4.804809521883726
+
+Word pair: get and put
+The standard similarity is 1.98 and the one calculated by embeddings is 5.921311303973198
+
+Word pair: locate and find
+The standard similarity is 8.73 and the one calculated by embeddings is 5.874592661857605
+
+Word pair: appear and attend
+The standard similarity is 6.28 and the one calculated by embeddings is 5.413007326424122
+
+Word pair: know and comprehend
+The standard similarity is 7.63 and the one calculated by embeddings is 5.0523874862119555
+
+Word pair: pretend and imagine
+The standard similarity is 8.47 and the one calculated by embeddings is 5.600214377045631
+
+Word pair: satisfy and please
+The standard similarity is 7.67 and the one calculated by embeddings is 5.353850722312927
+
+Word pair: cherish and keep
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: argue and differ
+The standard similarity is 5.15 and the one calculated by embeddings is 6.3775573670864105
+
+Word pair: overcome and dominate
+The standard similarity is 6.25 and the one calculated by embeddings is 6.334957480430603
+
+Word pair: behave and obey
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: cooperate and participate
+The standard similarity is 6.43 and the one calculated by embeddings is 6.1366962641477585
+
+Word pair: achieve and try
+The standard similarity is 4.42 and the one calculated by embeddings is 6.274983882904053
+
+Word pair: fail and discourage
+The standard similarity is 3.33 and the one calculated by embeddings is 6.831315755844116
+
+Word pair: begin and quit
+The standard similarity is 1.28 and the one calculated by embeddings is 5.8896806836128235
+
+Word pair: say and participate
+The standard similarity is 3.82 and the one calculated by embeddings is 5.787300914525986
+
+Word pair: come and bring
+The standard similarity is 2.42 and the one calculated by embeddings is 7.816759943962097
+
+Word pair: declare and announce
+The standard similarity is 9.08 and the one calculated by embeddings is 6.493505090475082
+
+Word pair: read and comprehend
+The standard similarity is 4.7 and the one calculated by embeddings is 6.326105296611786
+
+Word pair: take and leave
+The standard similarity is 2.47 and the one calculated by embeddings is 5.946695581078529
+
+Word pair: proclaim and announce
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: acquire and obtain
+The standard similarity is 8.57 and the one calculated by embeddings is 7.128412425518036
+
+Word pair: conclude and decide
+The standard similarity is 7.75 and the one calculated by embeddings is 6.539819836616516
+
+Word pair: please and plead
+The standard similarity is 2.98 and the one calculated by embeddings is 5.039972919039428
+
+Word pair: argue and prove
+The standard similarity is 4.83 and the one calculated by embeddings is 5.9872206300497055
+
+Word pair: ask and plead
+The standard similarity is 6.47 and the one calculated by embeddings is 6.285519897937775
+
+Word pair: find and disappear
+The standard similarity is 0.77 and the one calculated by embeddings is 7.125629037618637
+
+Word pair: inspect and examine
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: verify and justify
+The standard similarity is 4.08 and the one calculated by embeddings is 6.519990712404251
+
+Word pair: assume and predict
+The standard similarity is 4.85 and the one calculated by embeddings is 4.960312433540821
+
+Word pair: learn and evaluate
+The standard similarity is 4.17 and the one calculated by embeddings is 6.587325483560562
+
+Word pair: argue and justify
+The standard similarity is 5.0 and the one calculated by embeddings is 6.64693295955658
+
+Word pair: make and become
+The standard similarity is 4.77 and the one calculated by embeddings is 6.098684296011925
+
+Word pair: discover and originate
+The standard similarity is 4.83 and the one calculated by embeddings is 5.623434633016586
+
+Word pair: achieve and succeed
+The standard similarity is 7.5 and the one calculated by embeddings is 5.677235946059227
+
+Word pair: give and put
+The standard similarity is 3.65 and the one calculated by embeddings is 6.1527227610349655
+
+Word pair: understand and listen
+The standard similarity is 4.68 and the one calculated by embeddings is 5.856944769620895
+
+Word pair: expand and grow
+The standard similarity is 8.27 and the one calculated by embeddings is 6.399212330579758
+
+Word pair: borrow and sell
+The standard similarity is 1.73 and the one calculated by embeddings is 6.582574397325516
+
+Word pair: keep and protect
+The standard similarity is 5.4 and the one calculated by embeddings is 6.739846169948578
+
+Word pair: explain and prove
+The standard similarity is 4.1 and the one calculated by embeddings is 6.794341802597046
+
+Word pair: assume and pretend
+The standard similarity is 3.72 and the one calculated by embeddings is 5.171182993799448
+
+Word pair: agree and please
+The standard similarity is 4.13 and the one calculated by embeddings is 5.8274152129888535
+
+Word pair: forgive and forget
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: clarify and explain
+The standard similarity is 8.33 and the one calculated by embeddings is 6.239197850227356
+
+Word pair: understand and forgive
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: remind and forget
+The standard similarity is 0.87 and the one calculated by embeddings is 5.3779758512973785
+
+Word pair: get and remain
+The standard similarity is 1.6 and the one calculated by embeddings is 6.157529279589653
+
+Word pair: realize and discover
+The standard similarity is 7.47 and the one calculated by embeddings is 5.888875275850296
+
+Word pair: require and inquire
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: ignore and ask
+The standard similarity is 1.07 and the one calculated by embeddings is 6.6387346386909485
+
+Word pair: think and inquire
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: reject and avoid
+The standard similarity is 4.78 and the one calculated by embeddings is 6.092982441186905
+
+Word pair: argue and persuade
+The standard similarity is 6.23 and the one calculated by embeddings is 6.5830643475055695
+
+Word pair: pursue and persuade
+The standard similarity is 3.17 and the one calculated by embeddings is 7.696363627910614
+
+Word pair: accept and forgive
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: do and quit
+The standard similarity is 1.17 and the one calculated by embeddings is 5.71740910410881
+
+Word pair: investigate and examine
+The standard similarity is 8.1 and the one calculated by embeddings is 5.887979492545128
+
+Word pair: discuss and explain
+The standard similarity is 6.67 and the one calculated by embeddings is 5.5845580995082855
+
+Word pair: owe and lend
+The standard similarity is 2.32 and the one calculated by embeddings is 5.47086838632822
+
+Word pair: explore and discover
+The standard similarity is 8.48 and the one calculated by embeddings is 5.402396619319916
+
+Word pair: complain and argue
+The standard similarity is 4.8 and the one calculated by embeddings is 5.961375460028648
+
+Word pair: withdraw and reject
+The standard similarity is 6.38 and the one calculated by embeddings is 7.094646692276001
+
+Word pair: keep and borrow
+The standard similarity is 2.25 and the one calculated by embeddings is 7.508814632892609
+
+Word pair: beg and ask
+The standard similarity is 6.0 and the one calculated by embeddings is 5.721159428358078
+
+Word pair: arrange and organize
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: reduce and shrink
+The standard similarity is 8.02 and the one calculated by embeddings is 6.448918133974075
+
+Word pair: speak and acknowledge
+The standard similarity is 4.67 and the one calculated by embeddings is 6.530194580554962
+
+Word pair: give and borrow
+The standard similarity is 2.22 and the one calculated by embeddings is 6.050968691706657
+
+Word pair: kill and defend
+The standard similarity is 2.63 and the one calculated by embeddings is 5.696913152933121
+
+Word pair: disappear and shrink
+The standard similarity is 5.8 and the one calculated by embeddings is 5.719156637787819
+
+Word pair: deliver and carry
+The standard similarity is 3.88 and the one calculated by embeddings is 7.779079079627991
+
+Word pair: breathe and choke
+The standard similarity is 1.37 and the one calculated by embeddings is 5.038153221830726
+
+Word pair: acknowledge and notify
+The standard similarity is 5.3 and the one calculated by embeddings is 5.232245735824108
+
+Word pair: become and seem
+The standard similarity is 2.63 and the one calculated by embeddings is 5.994570851325989
+
+Word pair: pretend and seem
+The standard similarity is 4.68 and the one calculated by embeddings is 5.492434240877628
+
+Word pair: accomplish and become
+The standard similarity is 4.0 and the one calculated by embeddings is 5.524296313524246
+
+Word pair: contemplate and think
+The standard similarity is 8.82 and the one calculated by embeddings is 6.602934896945953
+
+Word pair: determine and predict
+The standard similarity is 5.8 and the one calculated by embeddings is 6.804317682981491
+
+Word pair: please and entertain
+The standard similarity is 5.0 and the one calculated by embeddings is 6.226856783032417
+
+Word pair: remain and retain
+The standard similarity is 5.75 and the one calculated by embeddings is 6.816152632236481
+
+Word pair: pretend and portray
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: forget and retain
+The standard similarity is 0.63 and the one calculated by embeddings is 5.471740700304508
+
+Word pair: want and choose
+The standard similarity is 4.78 and the one calculated by embeddings is 6.34955421090126
+
+Word pair: lose and get
+The standard similarity is 0.77 and the one calculated by embeddings is 6.182119324803352
+
+Word pair: try and think
+The standard similarity is 2.62 and the one calculated by embeddings is 6.188576444983482
+
+Word pair: become and appear
+The standard similarity is 4.77 and the one calculated by embeddings is 6.884527504444122
+
+Word pair: leave and ignore
+The standard similarity is 4.42 and the one calculated by embeddings is 6.750956475734711
+
+Word pair: accept and recommend
+The standard similarity is 2.75 and the one calculated by embeddings is 7.015323787927628
+
+Word pair: leave and wander
+The standard similarity is 3.57 and the one calculated by embeddings is 5.393914766609669
+
+Word pair: keep and give
+The standard similarity is 1.05 and the one calculated by embeddings is 6.379592269659042
+
+Word pair: give and allow
+The standard similarity is 5.15 and the one calculated by embeddings is 7.858869731426239
+
+Word pair: bring and send
+The standard similarity is 2.97 and the one calculated by embeddings is 6.4287348091602325
+
+Word pair: absorb and learn
+The standard similarity is 5.48 and the one calculated by embeddings is 5.619748570024967
+
+Word pair: acquire and find
+The standard similarity is 6.38 and the one calculated by embeddings is 5.900927409529686
+
+Word pair: leave and appear
+The standard similarity is 0.97 and the one calculated by embeddings is 6.746349185705185
+
+Word pair: create and destroy
+The standard similarity is 0.63 and the one calculated by embeddings is 6.064057499170303
+
+Word pair: begin and go
+The standard similarity is 7.42 and the one calculated by embeddings is 6.596927344799042
+
+Word pair: get and buy
+The standard similarity is 5.08 and the one calculated by embeddings is 6.498076915740967
+
+Word pair: collect and save
+The standard similarity is 6.67 and the one calculated by embeddings is 6.990468502044678
+
+Word pair: replace and restore
+The standard similarity is 5.73 and the one calculated by embeddings is 6.631681472063065
+
+Word pair: join and add
+The standard similarity is 8.1 and the one calculated by embeddings is 6.488887965679169
+
+Word pair: join and marry
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: accept and deliver
+The standard similarity is 1.58 and the one calculated by embeddings is 6.070281192660332
+
+Word pair: attach and join
+The standard similarity is 7.75 and the one calculated by embeddings is 5.0396783137694
+
+Word pair: put and hang
+The standard similarity is 3.0 and the one calculated by embeddings is 5.917675793170929
+
+Word pair: go and sell
+The standard similarity is 0.97 and the one calculated by embeddings is 4.9553181091323495
+
+Word pair: communicate and pray
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: give and steal
+The standard similarity is 0.5 and the one calculated by embeddings is 5.379183106124401
+
+Word pair: add and build
+The standard similarity is 4.92 and the one calculated by embeddings is 6.391990482807159
+
+Word pair: bring and restore
+The standard similarity is 2.62 and the one calculated by embeddings is 7.078918963670731
+
+Word pair: comprehend and satisfy
+The standard similarity is 2.55 and the one calculated by embeddings is 5.162704009562731
+
+Word pair: portray and decide
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: organize and become
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: give and know
+The standard similarity is 0.88 and the one calculated by embeddings is 6.72289177775383
+
+Word pair: say and verify
+The standard similarity is 4.9 and the one calculated by embeddings is 5.727869272232056
+
+Word pair: cooperate and join
+The standard similarity is 5.18 and the one calculated by embeddings is 6.311657577753067
+
+Word pair: arrange and require
+The standard similarity is 0.98 and the one calculated by embeddings is 5.202343333512545
+
+Word pair: borrow and want
+The standard similarity is 1.77 and the one calculated by embeddings is 5.362008102238178
+
+Word pair: investigate and pursue
+The standard similarity is 7.15 and the one calculated by embeddings is 6.969554275274277
+
+Word pair: ignore and explore
+The standard similarity is 0.4 and the one calculated by embeddings is 6.086766645312309
+
+Word pair: bring and complain
+The standard similarity is 0.98 and the one calculated by embeddings is 4.806505665183067
+
+Word pair: enter and owe
+The standard similarity is 0.68 and the one calculated by embeddings is 4.796861615031958
+
+Word pair: portray and notify
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: remind and sell
+The standard similarity is 0.4 and the one calculated by embeddings is 5.099943382665515
+
+Word pair: absorb and possess
+At least one of the words in this pair is not presented in the vocabulary.
+
+Word pair: join and acquire
+The standard similarity is 2.85 and the one calculated by embeddings is 6.346745789051056
+
+Word pair: send and attend
+The standard similarity is 1.67 and the one calculated by embeddings is 5.587463900446892
+
+Word pair: gather and attend
+The standard similarity is 4.8 and the one calculated by embeddings is 5.888271927833557
+
+Word pair: absorb and withdraw
+The standard similarity is 2.97 and the one calculated by embeddings is 6.559100896120071
+
+Word pair: attend and arrive
+The standard similarity is 6.08 and the one calculated by embeddings is 6.165456995368004
+
+The spearman correlation between the standard and calculated similarity is: 0.08179245828590297

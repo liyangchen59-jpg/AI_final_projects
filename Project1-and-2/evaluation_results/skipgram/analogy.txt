@@ -1,0 +1,89 @@
+Random analogy examples (10)
+
+Example 1
+Analogy: australia : australian :: germany : ?
+Expected: german
+Predicted: german
+Result: Correct
+Analysis: vec(australian) - vec(australia) + vec(germany) is closest to "german".
+Top candidates: german, wrexham, japan, berlin, explosive
+
+Example 2
+Analogy: seattle : washington :: baltimore : ?
+Expected: maryland
+Predicted: nuts
+Result: Incorrect
+Analysis: vec(washington) - vec(seattle) + vec(baltimore) is closest to "nuts".
+Top candidates: nuts, who, whippany, depreciated, criticize
+
+Example 3
+Analogy: athens : greece :: helsinki : ?
+Expected: finland
+Predicted: rinn
+Result: Incorrect
+Analysis: vec(greece) - vec(athens) + vec(helsinki) is closest to "rinn".
+Top candidates: rinn, severance, insufficient, taper, architecture
+
+Example 4
+Analogy: old : older :: big : ?
+Expected: bigger
+Predicted: corproration
+Result: Incorrect
+Analysis: vec(older) - vec(old) + vec(big) is closest to "corproration".
+Top candidates: corproration, henley, pumps, costlier, participators
+
+Example 5
+Analogy: cheap : cheaper :: cool : ?
+Expected: cooler
+Predicted: toepfer
+Result: Incorrect
+Analysis: vec(cheaper) - vec(cheap) + vec(cool) is closest to "toepfer".
+Top candidates: toepfer, swirl, kiddie, aerial, unprocessed
+
+Example 6
+Analogy: acceptable : unacceptable :: responsible : ?
+Expected: irresponsible
+Predicted: challenged
+Result: Incorrect
+Analysis: vec(unacceptable) - vec(acceptable) + vec(responsible) is closest to "challenged".
+Top candidates: challenged, lisbeth, sidetracking, feisty, tradition
+
+Example 7
+Analogy: cleveland : ohio :: honolulu : ?
+Expected: hawaii
+Predicted: karim
+Result: Incorrect
+Analysis: vec(ohio) - vec(cleveland) + vec(honolulu) is closest to "karim".
+Top candidates: karim, midstates, shipshewana, balladur, respecitvely
+
+Example 8
+Analogy: indianapolis : indiana :: cincinnati : ?
+Expected: ohio
+Predicted: communications
+Result: Incorrect
+Analysis: vec(indiana) - vec(indianapolis) + vec(cincinnati) is closest to "communications".
+Top candidates: communications, vereins, msl, endata, aurora
+
+Example 9
+Analogy: usa : dollar :: nigeria : ?
+Expected: naira
+Predicted: compounders
+Result: Incorrect
+Analysis: vec(dollar) - vec(usa) + vec(nigeria) is closest to "compounders".
+Top candidates: compounders, india, soaring, departure, stagflation
+
+Example 10
+Analogy: falling : fell :: knowing : ?
+Expected: knew
+Predicted: mechanised
+Result: Incorrect
+Analysis: vec(fell) - vec(falling) + vec(knowing) is closest to "mechanised".
+Top candidates: mechanised, began, acitivity, attributibuted, feedlots
+
+Saved analogy plots:
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/skipgram/analogy_plots/01_australia_australian_germany_german.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/skipgram/analogy_plots/02_seattle_washington_baltimore_nuts.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/skipgram/analogy_plots/03_athens_greece_helsinki_rinn.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/skipgram/analogy_plots/04_old_older_big_corproration.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/skipgram/analogy_plots/05_cheap_cheaper_cool_toepfer.png
+For 8591 analogy questions with all words presented in the vocabulary, 60 of them are correctly answered.

@@ -1,0 +1,89 @@
+Random analogy examples (10)
+
+Example 1
+Analogy: amarillo : texas :: jacksonville : ?
+Expected: florida
+Predicted: florida
+Result: Correct
+Analysis: vec(texas) - vec(amarillo) + vec(jacksonville) is closest to "florida".
+Top candidates: florida, knuettel, ruled, argi, qinghai
+
+Example 2
+Analogy: athens : greece :: helsinki : ?
+Expected: finland
+Predicted: sunnyvale
+Result: Incorrect
+Analysis: vec(greece) - vec(athens) + vec(helsinki) is closest to "sunnyvale".
+Top candidates: sunnyvale, exsiting, forint, wy, epidemic
+
+Example 3
+Analogy: old : older :: bright : ?
+Expected: brighter
+Predicted: contradict
+Result: Incorrect
+Analysis: vec(older) - vec(old) + vec(bright) is closest to "contradict".
+Top candidates: contradict, eep, tyco, heard, banana
+
+Example 4
+Analogy: cheap : cheaper :: deep : ?
+Expected: deeper
+Predicted: apples
+Result: Incorrect
+Analysis: vec(cheaper) - vec(cheap) + vec(deep) is closest to "apples".
+Top candidates: apples, haber, debated, devon, weighs
+
+Example 5
+Analogy: acceptable : unacceptable :: sure : ?
+Expected: unsure
+Predicted: fluidized
+Result: Incorrect
+Analysis: vec(unacceptable) - vec(acceptable) + vec(sure) is closest to "fluidized".
+Top candidates: fluidized, subhi, soundly, scraps, believes
+
+Example 6
+Analogy: cleveland : ohio :: honolulu : ?
+Expected: hawaii
+Predicted: consume
+Result: Incorrect
+Analysis: vec(ohio) - vec(cleveland) + vec(honolulu) is closest to "consume".
+Top candidates: consume, txu, nerves, usag, overallotments
+
+Example 7
+Analogy: indianapolis : indiana :: cincinnati : ?
+Expected: ohio
+Predicted: monetarist
+Result: Incorrect
+Analysis: vec(indiana) - vec(indianapolis) + vec(cincinnati) is closest to "monetarist".
+Top candidates: monetarist, mandating, misses, synthetics, kubota
+
+Example 8
+Analogy: usa : dollar :: nigeria : ?
+Expected: naira
+Predicted: almost
+Result: Incorrect
+Analysis: vec(dollar) - vec(usa) + vec(nigeria) is closest to "almost".
+Top candidates: almost, yen, below, mark, rates
+
+Example 9
+Analogy: falling : fell :: knowing : ?
+Expected: knew
+Predicted: paxar
+Result: Incorrect
+Analysis: vec(fell) - vec(falling) + vec(knowing) is closest to "paxar".
+Top candidates: paxar, infested, nationalism, cyanide, ties
+
+Example 10
+Analogy: bucharest : romania :: canberra : ?
+Expected: australia
+Predicted: purchse
+Result: Incorrect
+Analysis: vec(romania) - vec(bucharest) + vec(canberra) is closest to "purchse".
+Top candidates: purchse, disk, equalled, waning, contender
+
+Saved analogy plots:
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/sgns/analogy_plots/01_amarillo_texas_jacksonville_florida.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/sgns/analogy_plots/02_athens_greece_helsinki_sunnyvale.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/sgns/analogy_plots/03_old_older_bright_contradict.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/sgns/analogy_plots/04_cheap_cheaper_deep_apples.png
+/Users/chenliyang/Downloads/学校文件/AI/Project1-and-2/evaluation_results/sgns/analogy_plots/05_acceptable_unacceptable_sure_fluidized.png
+For 8591 analogy questions with all words presented in the vocabulary, 19 of them are correctly answered.

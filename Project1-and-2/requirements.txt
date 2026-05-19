@@ -1,0 +1,5 @@
+torch
+tqdm
+nltk
+scipy
+matplotlib

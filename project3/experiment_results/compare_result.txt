@@ -1,0 +1,167 @@
+============================================================
+Misclassified in Task A but correct in Task B sample count: 153
+============================================================
+[Misclassified in Task A but correct in Task B #1]
+Original test text: 本科未录取还有这些路可以走
+Task A processed text: 本科未录取还有这些路可以走
+Task B preprocessed text: 本科未录取还有这些路可以走
+Task A prediction: 房产
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #2]
+Original test text: 去新西兰体验舌尖上的饕餮之旅(组图)
+Task A processed text: 去新西兰体验舌尖上的饕餮之旅(组图)
+Task B preprocessed text: 去新西兰体验舌尖上的饕餮之旅(组图)
+Task A prediction: 房产
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #3]
+Original test text: 调查显示：29.5%的人不满意当年所选高考专业
+Task A processed text: 调查显示：29.5%的人不满意当年所选高考专业
+Task B preprocessed text: 调查显示：29.5%的人不满意当年所选高考专业
+Task A prediction: 股票
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #4]
+Original test text: 浙商大法语系介绍：半数毕业生出国深造
+Task A processed text: 浙商大法语系介绍：半数毕业生出国深造
+Task B preprocessed text: 浙商大法语系介绍：半数毕业生出国深造
+Task A prediction: 财经
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #5]
+Original test text: 北京建筑工程学院2009年新增加两专业
+Task A processed text: 北京建筑工程学院2009年新增加两专业
+Task B preprocessed text: 北京建筑工程学院2009年新增加两专业
+Task A prediction: 房产
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #6]
+Original test text: 中国江西网微博直播2011江西高招录取
+Task A processed text: 中国江西网微博直播2011江西高招录取
+Task B preprocessed text: 中国江西网微博直播2011江西高招录取
+Task A prediction: 科技
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #7]
+Original test text: 名校MBA报名人数下降 竞争不如往年激烈
+Task A processed text: 名校MBA报名人数下降 竞争不如往年激烈
+Task B preprocessed text: 名校MBA报名人数下降 竞争不如往年激烈
+Task A prediction: 社会
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #8]
+Original test text: 中传大播音主持专业淘汰率99%(图)
+Task A processed text: 中传大播音主持专业淘汰率99%(图)
+Task B preprocessed text: 中传大播音主持专业淘汰率99%(图)
+Task A prediction: 科技
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #9]
+Original test text: 河南中招网上填报志愿：12日初三毕业生可确认
+Task A processed text: 河南中招网上填报志愿：12日初三毕业生可确认
+Task B preprocessed text: 河南中招网上填报志愿：12日初三毕业生可确认
+Task A prediction: 科技
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task A but correct in Task B #10]
+Original test text: 热点观察：教育资源不足下的复读困境
+Task A processed text: 热点观察：教育资源不足下的复读困境
+Task B preprocessed text: 热点观察：教育资源不足下的复读困境
+Task A prediction: 股票
+Task B prediction: Correct
+Ground truth: 教育
+------------------------------------------------------------
+
+============================================================
+Misclassified in Task B but correct in Task A sample count: 147
+============================================================
+[Misclassified in Task B but correct in Task A #1]
+Original test text: 日本地震：金吉列关注在日学子系列报道
+Task A processed text: 日本地震：金吉列关注在日学子系列报道
+Task B preprocessed text: 日本地震金吉列关注在日学子系列报道
+Task A prediction: Correct
+Task B prediction: 时政
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #2]
+Original test text: 公共英语(PETS)写作中常见的逻辑词汇汇总
+Task A processed text: 公共英语(PETS)写作中常见的逻辑词汇汇总
+Task B preprocessed text: 公共英语PETS写作中常见的逻辑词汇汇总
+Task A prediction: Correct
+Task B prediction: 游戏
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #3]
+Original test text: 名校农村生比例降低 该酝酿“平权法案”了
+Task A processed text: 名校农村生比例降低 该酝酿“平权法案”了
+Task B preprocessed text: 名校农村生比例降低 该酝酿平权法案了
+Task A prediction: Correct
+Task B prediction: 社会
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #4]
+Original test text: 生孩子是德国家庭头等“战略任务”
+Task A processed text: 生孩子是德国家庭头等“战略任务”
+Task B preprocessed text: 生孩子是德国家庭头等战略任务
+Task A prediction: Correct
+Task B prediction: 游戏
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #5]
+Original test text: 女生为考研而下跪折射就业歧视之“病”
+Task A processed text: 女生为考研而下跪折射就业歧视之“病”
+Task B preprocessed text: 女生为考研而下跪折射就业歧视之病
+Task A prediction: Correct
+Task B prediction: 社会
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #6]
+Original test text: 在美国“人肉搜索”为何成重罪？(组图)
+Task A processed text: 在美国“人肉搜索”为何成重罪？(组图)
+Task B preprocessed text: 在美国人肉搜索为何成重罪组图
+Task A prediction: Correct
+Task B prediction: 科技
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #7]
+Original test text: 美国佛罗里达州：上大学可带宠物陪读
+Task A processed text: 美国佛罗里达州：上大学可带宠物陪读
+Task B preprocessed text: 美国佛罗里达州上大学可带宠物陪读
+Task A prediction: Correct
+Task B prediction: 时政
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #8]
+Original test text: 留学金融机构大全：汇丰银行(中国)
+Task A processed text: 留学金融机构大全：汇丰银行(中国)
+Task B preprocessed text: 留学金融机构大全汇丰银行中国
+Task A prediction: Correct
+Task B prediction: 财经
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #9]
+Original test text: “跨区域”办学使新疆3万多名各民族学生受益
+Task A processed text: “跨区域”办学使新疆3万多名各民族学生受益
+Task B preprocessed text: 跨区域办学使新疆3万多名各民族学生受益
+Task A prediction: Correct
+Task B prediction: 社会
+Ground truth: 教育
+------------------------------------------------------------
+[Misclassified in Task B but correct in Task A #10]
+Original test text: 深度解析：如何在托福写作中选用词汇和句型
+Task A processed text: 深度解析：如何在托福写作中选用词汇和句型
+Task B preprocessed text: 深度解析如何在托福写作中选用词汇和句型
+Task A prediction: Correct
+Task B prediction: 科技
+Ground truth: 教育
+------------------------------------------------------------
