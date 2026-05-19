@@ -1,0 +1,64 @@
+root@autodl-container-90ec41be83-76ac87dd:~/autodl-tmp# python3 sst2.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|███████████████████████████████████████████████████████████████████████████████| 71/71 [00:00<00:00, 13703.09it/s]
+[transformers] BertForSequenceClassification LOAD REPORT from: prajjwal1/bert-mini
+Key                                        | Status     | 
+-------------------------------------------+------------+-
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED | 
+cls.predictions.transform.dense.bias       | UNEXPECTED | 
+cls.predictions.decoder.bias               | UNEXPECTED | 
+cls.predictions.transform.dense.weight     | UNEXPECTED | 
+cls.predictions.decoder.weight             | UNEXPECTED | 
+cls.seq_relationship.bias                  | UNEXPECTED | 
+cls.seq_relationship.weight                | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED | 
+cls.predictions.bias                       | UNEXPECTED | 
+classifier.bias                            | MISSING    | 
+classifier.weight                          | MISSING    | 
+
+Notes:
+- UNEXPECTED:   can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:      those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+[transformers] warmup_ratio is deprecated and will be removed in v5.2. Use `warmup_steps` instead.
+{'loss': '0.5814', 'grad_norm': '4.548', 'learning_rate': '2.938e-05', 'epoch': '0.2375'}                                               
+Writing model shards: 100%|███████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 11.80it/s]
+{'loss': '0.385', 'grad_norm': '4.249', 'learning_rate': '2.542e-05', 'epoch': '0.4751'}                                                
+Writing model shards: 100%|███████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 12.10it/s]
+{'loss': '0.3406', 'grad_norm': '4.888', 'learning_rate': '2.146e-05', 'epoch': '0.7126'}                                               
+Writing model shards: 100%|███████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 11.96it/s]
+ 41%|███████████████████████████████████████                                                        | 1733/4210 [00:50<01 41%|██████████████████████████████████▋                                                 | 1737/4210 [00:50<01:11, 34.39i 41%|█████████████████████████████████                                               | 1741/4210 [00:50<01:11, 34.37it/s]{'loss': '0.3126', 'grad_norm': '5.565', 'learning_rate': '1.751e-05', 'epoch': '0.9501'}                                
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 11.88it/s]
+{'eval_loss': '0.3854', 'eval_accuracy': '0.8417', 'eval_runtime': '0.233', 'eval_samples_per_second': '3742', 'eval_steps_per_second': '120.2', 'epoch': '1'}                                                                                    
+{'loss': '0.281', 'grad_norm': '4.85', 'learning_rate': '1.355e-05', 'epoch': '1.188'}                                   
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 11.89it/s]
+{'loss': '0.2561', 'grad_norm': '7.688', 'learning_rate': '9.588e-06', 'epoch': '1.425'}                                 
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 11.72it/s]
+{'loss': '0.2552', 'grad_norm': '4.113', 'learning_rate': '5.629e-06', 'epoch': '1.663'}                                 
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 12.47it/s]
+{'loss': '0.2442', 'grad_norm': '6.228', 'learning_rate': '1.671e-06', 'epoch': '1.9'}                                   
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 13.33it/s]
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 15.34it/s]
+{'eval_loss': '0.3763', 'eval_accuracy': '0.8567', 'eval_runtime': '0.1739', 'eval_samples_per_second': '5015', 'eval_steps_per_second': '161', 'epoch': '2'}                                                                                     
+{'train_runtime': '124.6', 'train_samples_per_second': '1081', 'train_steps_per_second': '33.78', 'train_loss': '0.3277', 'epoch': '2'}                                                                                                           
+100%|████████████████████████████████████████████████████████████████████████████████| 4210/4210 [02:04<00:00, 33.78it/s]
+
+Saving model to bert-for-sst2
+Writing model shards: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 15.14it/s]
+Loading weights: 100%|████████████████████████████████████████████████████████████████| 73/73 [00:00<00:00, 10142.92it/s]
+
+Practical task examples:
+
+hide new secretions from the parental units      
+Prediction: 0, which is correct.
+
+contains no wit , only labored gags      
+Prediction: 0, which is correct.
+
+that loves its characters and communicates something rather beautiful about human nature      
+Prediction: 1, which is correct.
+
+remains utterly satisfied to remain the same throughout      
+Prediction: 1, which is wrong.
+
+on the worst revenge-of-the-nerds clichés the filmmakers could dredge up      
+Prediction: 0, which is correct.

@@ -1,0 +1,46 @@
+oot@autodl-container-90ec41be83-76ac87dd:~/autodl-tmp# python3 mrpc.py
+Loading weights: 100%|██████████████████████████████████████████████████████████████████████████████████████| 71/71 [00:00<00:00, 23877.13it/s]
+[transformers] BertForSequenceClassification LOAD REPORT from: prajjwal1/bert-mini
+Key                                        | Status     | 
+-------------------------------------------+------------+-
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED | 
+cls.seq_relationship.bias                  | UNEXPECTED | 
+cls.seq_relationship.weight                | UNEXPECTED | 
+cls.predictions.transform.dense.weight     | UNEXPECTED | 
+cls.predictions.decoder.weight             | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED | 
+cls.predictions.decoder.bias               | UNEXPECTED | 
+cls.predictions.bias                       | UNEXPECTED | 
+cls.predictions.transform.dense.bias       | UNEXPECTED | 
+classifier.weight                          | MISSING    | 
+classifier.bias                            | MISSING    | 
+
+Notes:
+- UNEXPECTED:   can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:      those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+{'eval_loss': '0.5676', 'eval_accuracy': '0.6961', 'eval_f1': '0.8127', 'eval_runtime': '0.1405', 'eval_samples_per_second': '2904', 'eval_steps_per_second': '92.51', 'epoch': '1'}                                                                                                          
+Writing model shards: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 11.26it/s]
+{'eval_loss': '0.5456', 'eval_accuracy': '0.7279', 'eval_f1': '0.8268', 'eval_runtime': '0.1054', 'eval_samples_per_second': '3872', 'eval_steps_per_second': '123.4', 'epoch': '2'}                                                                                                          
+{'train_runtime': '7.928', 'train_samples_per_second': '925.4', 'train_steps_per_second': '29.01', 'train_loss': '0.5783', 'epoch': '2'}       
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:07<00:00, 28.98it/s]
+
+Saving model to bert-for-mrpc
+Writing model shards: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 12.30it/s]
+Loading weights: 100%|███████████████████████████████████████████████████████████████████████████████████████| 73/73 [00:00<00:00, 7986.44it/s]
+
+Practical task examples:
+
+I wanted to bring the most beautiful people into the most beautiful building , he said Sunday inside the Grand Central concourse .     " I wanted to bring the most beautiful people into the most beautiful building , " Tunick said Sunday .     
+Prediction: 1, which is correct.
+
+The broad Standard & Poor 's 500 < .SPX > fell 10.75 points , or 1.02 percent , to 1,039.32 .     The S & P 500 index was up 1.26 , or 0.1 percent , to 1,039.32 after sinking 10.75 yesterday .     
+Prediction: 0, which is correct.
+
+Duque will return to Earth Oct. 27 with the station 's current crew , U.S. astronaut Ed Lu and Russian cosmonaut Yuri Malenchenko .     Currently living onboard the space station are American astronaut Ed Lu and Russian cosmonaut Yuri Malenchenko .     
+Prediction: 1, which is wrong.
+
+Singapore is already the United States ' 12th-largest trading partner , with two-way trade totaling more than $ 34 billion .     Although a small city-state , Singapore is the 12th-largest trading partner of the United States , with trade volume of $ 33.4 billion last year .     
+Prediction: 1, which is correct.
+
+The largest gains were seen in prices , new orders , inventories and exports .     Sub-indexes measuring prices , new orders , inventories and exports increased .     
+Prediction: 1, which is correct.
